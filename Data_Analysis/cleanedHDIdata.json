@@ -1,0 +1,1325 @@
+[
+    {
+        "Country": "Norway",
+        "Human Development Index (HDI) ": 0.957,
+        "Expected years of schooling": 18.1,
+        "Gross national income (GNI) per capita": "66,494",
+        "HDI rank": 1
+    },
+    {
+        "Country": "Ireland",
+        "Human Development Index (HDI) ": 0.955,
+        "Expected years of schooling": 18.7,
+        "Gross national income (GNI) per capita": "68,371",
+        "HDI rank": 2
+    },
+    {
+        "Country": "Switzerland",
+        "Human Development Index (HDI) ": 0.955,
+        "Expected years of schooling": 16.3,
+        "Gross national income (GNI) per capita": "69,394",
+        "HDI rank": 2
+    },
+    {
+        "Country": "Hong Kong, China (SAR)",
+        "Human Development Index (HDI) ": 0.949,
+        "Expected years of schooling": 16.9,
+        "Gross national income (GNI) per capita": "62,985",
+        "HDI rank": 4
+    },
+    {
+        "Country": "Iceland",
+        "Human Development Index (HDI) ": 0.949,
+        "Expected years of schooling": 19.1,
+        "Gross national income (GNI) per capita": "54,682",
+        "HDI rank": 4
+    },
+    {
+        "Country": "Germany",
+        "Human Development Index (HDI) ": 0.947,
+        "Expected years of schooling": 17,
+        "Gross national income (GNI) per capita": "55,314",
+        "HDI rank": 6
+    },
+    {
+        "Country": "Sweden",
+        "Human Development Index (HDI) ": 0.945,
+        "Expected years of schooling": 19.5,
+        "Gross national income (GNI) per capita": "54,508",
+        "HDI rank": 7
+    },
+    {
+        "Country": "Australia",
+        "Human Development Index (HDI) ": 0.944,
+        "Expected years of schooling": 22,
+        "Gross national income (GNI) per capita": "48,085",
+        "HDI rank": 8
+    },
+    {
+        "Country": "Netherlands",
+        "Human Development Index (HDI) ": 0.944,
+        "Expected years of schooling": 18.5,
+        "Gross national income (GNI) per capita": "57,707",
+        "HDI rank": 8
+    },
+    {
+        "Country": "Denmark",
+        "Human Development Index (HDI) ": 0.94,
+        "Expected years of schooling": 18.9,
+        "Gross national income (GNI) per capita": "58,662",
+        "HDI rank": 10
+    },
+    {
+        "Country": "Finland",
+        "Human Development Index (HDI) ": 0.938,
+        "Expected years of schooling": 19.4,
+        "Gross national income (GNI) per capita": "48,511",
+        "HDI rank": 11
+    },
+    {
+        "Country": "Singapore",
+        "Human Development Index (HDI) ": 0.938,
+        "Expected years of schooling": 16.4,
+        "Gross national income (GNI) per capita": "88,155",
+        "HDI rank": 11
+    },
+    {
+        "Country": "United Kingdom",
+        "Human Development Index (HDI) ": 0.932,
+        "Expected years of schooling": 17.5,
+        "Gross national income (GNI) per capita": "46,071",
+        "HDI rank": 13
+    },
+    {
+        "Country": "Belgium",
+        "Human Development Index (HDI) ": 0.931,
+        "Expected years of schooling": 19.8,
+        "Gross national income (GNI) per capita": "52,085",
+        "HDI rank": 14
+    },
+    {
+        "Country": "New Zealand",
+        "Human Development Index (HDI) ": 0.931,
+        "Expected years of schooling": 18.8,
+        "Gross national income (GNI) per capita": "40,799",
+        "HDI rank": 14
+    },
+    {
+        "Country": "Canada",
+        "Human Development Index (HDI) ": 0.929,
+        "Expected years of schooling": 16.2,
+        "Gross national income (GNI) per capita": "48,527",
+        "HDI rank": 16
+    },
+    {
+        "Country": "United States of America",
+        "Human Development Index (HDI) ": 0.926,
+        "Expected years of schooling": 16.3,
+        "Gross national income (GNI) per capita": "63,826",
+        "HDI rank": 17
+    },
+    {
+        "Country": "Austria",
+        "Human Development Index (HDI) ": 0.922,
+        "Expected years of schooling": 16.1,
+        "Gross national income (GNI) per capita": "56,197",
+        "HDI rank": 18
+    },
+    {
+        "Country": "Israel",
+        "Human Development Index (HDI) ": 0.919,
+        "Expected years of schooling": 16.2,
+        "Gross national income (GNI) per capita": "40,187",
+        "HDI rank": 19
+    },
+    {
+        "Country": "Japan",
+        "Human Development Index (HDI) ": 0.919,
+        "Expected years of schooling": 15.2,
+        "Gross national income (GNI) per capita": "42,932",
+        "HDI rank": 19
+    },
+    {
+        "Country": "Liechtenstein",
+        "Human Development Index (HDI) ": 0.919,
+        "Expected years of schooling": 14.9,
+        "Gross national income (GNI) per capita": "131,032",
+        "HDI rank": 19
+    },
+    {
+        "Country": "Slovenia",
+        "Human Development Index (HDI) ": 0.917,
+        "Expected years of schooling": 17.6,
+        "Gross national income (GNI) per capita": "38,080",
+        "HDI rank": 22
+    },
+    {
+        "Country": "Republic of Korea",
+        "Human Development Index (HDI) ": 0.916,
+        "Expected years of schooling": 16.5,
+        "Gross national income (GNI) per capita": "43,044",
+        "HDI rank": 23
+    },
+    {
+        "Country": "Luxembourg",
+        "Human Development Index (HDI) ": 0.916,
+        "Expected years of schooling": 14.3,
+        "Gross national income (GNI) per capita": "72,712",
+        "HDI rank": 23
+    },
+    {
+        "Country": "Spain",
+        "Human Development Index (HDI) ": 0.904,
+        "Expected years of schooling": 17.6,
+        "Gross national income (GNI) per capita": "40,975",
+        "HDI rank": 25
+    },
+    {
+        "Country": "France",
+        "Human Development Index (HDI) ": 0.901,
+        "Expected years of schooling": 15.6,
+        "Gross national income (GNI) per capita": "47,173",
+        "HDI rank": 26
+    },
+    {
+        "Country": "Czechia",
+        "Human Development Index (HDI) ": 0.9,
+        "Expected years of schooling": 16.8,
+        "Gross national income (GNI) per capita": "38,109",
+        "HDI rank": 27
+    },
+    {
+        "Country": "Malta",
+        "Human Development Index (HDI) ": 0.895,
+        "Expected years of schooling": 16.1,
+        "Gross national income (GNI) per capita": "39,555",
+        "HDI rank": 28
+    },
+    {
+        "Country": "Estonia",
+        "Human Development Index (HDI) ": 0.892,
+        "Expected years of schooling": 16,
+        "Gross national income (GNI) per capita": "36,019",
+        "HDI rank": 29
+    },
+    {
+        "Country": "Italy",
+        "Human Development Index (HDI) ": 0.892,
+        "Expected years of schooling": 16.1,
+        "Gross national income (GNI) per capita": "42,776",
+        "HDI rank": 29
+    },
+    {
+        "Country": "United Arab Emirates",
+        "Human Development Index (HDI) ": 0.89,
+        "Expected years of schooling": 14.3,
+        "Gross national income (GNI) per capita": "67,462",
+        "HDI rank": 31
+    },
+    {
+        "Country": "Greece",
+        "Human Development Index (HDI) ": 0.888,
+        "Expected years of schooling": 17.9,
+        "Gross national income (GNI) per capita": "30,155",
+        "HDI rank": 32
+    },
+    {
+        "Country": "Cyprus",
+        "Human Development Index (HDI) ": 0.887,
+        "Expected years of schooling": 15.2,
+        "Gross national income (GNI) per capita": "38,207",
+        "HDI rank": 33
+    },
+    {
+        "Country": "Lithuania",
+        "Human Development Index (HDI) ": 0.882,
+        "Expected years of schooling": 16.6,
+        "Gross national income (GNI) per capita": "35,799",
+        "HDI rank": 34
+    },
+    {
+        "Country": "Poland",
+        "Human Development Index (HDI) ": 0.88,
+        "Expected years of schooling": 16.3,
+        "Gross national income (GNI) per capita": "31,623",
+        "HDI rank": 35
+    },
+    {
+        "Country": "Andorra",
+        "Human Development Index (HDI) ": 0.868,
+        "Expected years of schooling": 13.3,
+        "Gross national income (GNI) per capita": "56,000",
+        "HDI rank": 36
+    },
+    {
+        "Country": "Latvia",
+        "Human Development Index (HDI) ": 0.866,
+        "Expected years of schooling": 16.2,
+        "Gross national income (GNI) per capita": "30,282",
+        "HDI rank": 37
+    },
+    {
+        "Country": "Portugal",
+        "Human Development Index (HDI) ": 0.864,
+        "Expected years of schooling": 16.5,
+        "Gross national income (GNI) per capita": "33,967",
+        "HDI rank": 38
+    },
+    {
+        "Country": "Slovakia",
+        "Human Development Index (HDI) ": 0.86,
+        "Expected years of schooling": 14.5,
+        "Gross national income (GNI) per capita": "32,113",
+        "HDI rank": 39
+    },
+    {
+        "Country": "Hungary",
+        "Human Development Index (HDI) ": 0.854,
+        "Expected years of schooling": 15.2,
+        "Gross national income (GNI) per capita": "31,329",
+        "HDI rank": 40
+    },
+    {
+        "Country": "Saudi Arabia",
+        "Human Development Index (HDI) ": 0.854,
+        "Expected years of schooling": 16.1,
+        "Gross national income (GNI) per capita": "47,495",
+        "HDI rank": 40
+    },
+    {
+        "Country": "Bahrain",
+        "Human Development Index (HDI) ": 0.852,
+        "Expected years of schooling": 16.3,
+        "Gross national income (GNI) per capita": "42,522",
+        "HDI rank": 42
+    },
+    {
+        "Country": "Chile",
+        "Human Development Index (HDI) ": 0.851,
+        "Expected years of schooling": 16.4,
+        "Gross national income (GNI) per capita": "23,261",
+        "HDI rank": 43
+    },
+    {
+        "Country": "Croatia",
+        "Human Development Index (HDI) ": 0.851,
+        "Expected years of schooling": 15.2,
+        "Gross national income (GNI) per capita": "28,070",
+        "HDI rank": 43
+    },
+    {
+        "Country": "Qatar",
+        "Human Development Index (HDI) ": 0.848,
+        "Expected years of schooling": 12,
+        "Gross national income (GNI) per capita": "92,418",
+        "HDI rank": 45
+    },
+    {
+        "Country": "Argentina",
+        "Human Development Index (HDI) ": 0.845,
+        "Expected years of schooling": 17.7,
+        "Gross national income (GNI) per capita": "21,190",
+        "HDI rank": 46
+    },
+    {
+        "Country": "Brunei Darussalam",
+        "Human Development Index (HDI) ": 0.838,
+        "Expected years of schooling": 14.3,
+        "Gross national income (GNI) per capita": "63,965",
+        "HDI rank": 47
+    },
+    {
+        "Country": "Montenegro",
+        "Human Development Index (HDI) ": 0.829,
+        "Expected years of schooling": 15,
+        "Gross national income (GNI) per capita": "21,399",
+        "HDI rank": 48
+    },
+    {
+        "Country": "Romania",
+        "Human Development Index (HDI) ": 0.828,
+        "Expected years of schooling": 14.3,
+        "Gross national income (GNI) per capita": "29,497",
+        "HDI rank": 49
+    },
+    {
+        "Country": "Palau",
+        "Human Development Index (HDI) ": 0.826,
+        "Expected years of schooling": 15.8,
+        "Gross national income (GNI) per capita": "19,317",
+        "HDI rank": 50
+    },
+    {
+        "Country": "Kazakhstan",
+        "Human Development Index (HDI) ": 0.825,
+        "Expected years of schooling": 15.6,
+        "Gross national income (GNI) per capita": "22,857",
+        "HDI rank": 51
+    },
+    {
+        "Country": "Russian Federation",
+        "Human Development Index (HDI) ": 0.824,
+        "Expected years of schooling": 15,
+        "Gross national income (GNI) per capita": "26,157",
+        "HDI rank": 52
+    },
+    {
+        "Country": "Belarus",
+        "Human Development Index (HDI) ": 0.823,
+        "Expected years of schooling": 15.4,
+        "Gross national income (GNI) per capita": "18,546",
+        "HDI rank": 53
+    },
+    {
+        "Country": "Türkiye",
+        "Human Development Index (HDI) ": 0.82,
+        "Expected years of schooling": 16.6,
+        "Gross national income (GNI) per capita": "27,701",
+        "HDI rank": 54
+    },
+    {
+        "Country": "Uruguay",
+        "Human Development Index (HDI) ": 0.817,
+        "Expected years of schooling": 16.8,
+        "Gross national income (GNI) per capita": "20,064",
+        "HDI rank": 55
+    },
+    {
+        "Country": "Bulgaria",
+        "Human Development Index (HDI) ": 0.816,
+        "Expected years of schooling": 14.4,
+        "Gross national income (GNI) per capita": "23,325",
+        "HDI rank": 56
+    },
+    {
+        "Country": "Panama",
+        "Human Development Index (HDI) ": 0.815,
+        "Expected years of schooling": 12.9,
+        "Gross national income (GNI) per capita": "29,558",
+        "HDI rank": 57
+    },
+    {
+        "Country": "Bahamas",
+        "Human Development Index (HDI) ": 0.814,
+        "Expected years of schooling": 12.9,
+        "Gross national income (GNI) per capita": "33,747",
+        "HDI rank": 58
+    },
+    {
+        "Country": "Barbados",
+        "Human Development Index (HDI) ": 0.814,
+        "Expected years of schooling": 15.4,
+        "Gross national income (GNI) per capita": "14,936",
+        "HDI rank": 58
+    },
+    {
+        "Country": "Oman",
+        "Human Development Index (HDI) ": 0.813,
+        "Expected years of schooling": 14.2,
+        "Gross national income (GNI) per capita": "25,944",
+        "HDI rank": 60
+    },
+    {
+        "Country": "Georgia",
+        "Human Development Index (HDI) ": 0.812,
+        "Expected years of schooling": 15.3,
+        "Gross national income (GNI) per capita": "14,429",
+        "HDI rank": 61
+    },
+    {
+        "Country": "Costa Rica",
+        "Human Development Index (HDI) ": 0.81,
+        "Expected years of schooling": 15.7,
+        "Gross national income (GNI) per capita": "18,486",
+        "HDI rank": 62
+    },
+    {
+        "Country": "Malaysia",
+        "Human Development Index (HDI) ": 0.81,
+        "Expected years of schooling": 13.7,
+        "Gross national income (GNI) per capita": "27,534",
+        "HDI rank": 62
+    },
+    {
+        "Country": "Kuwait",
+        "Human Development Index (HDI) ": 0.806,
+        "Expected years of schooling": 14.2,
+        "Gross national income (GNI) per capita": "58,590",
+        "HDI rank": 64
+    },
+    {
+        "Country": "Serbia",
+        "Human Development Index (HDI) ": 0.806,
+        "Expected years of schooling": 14.7,
+        "Gross national income (GNI) per capita": "17,192",
+        "HDI rank": 64
+    },
+    {
+        "Country": "Mauritius",
+        "Human Development Index (HDI) ": 0.804,
+        "Expected years of schooling": 15.1,
+        "Gross national income (GNI) per capita": "25,266",
+        "HDI rank": 66
+    },
+    {
+        "Country": "Seychelles",
+        "Human Development Index (HDI) ": 0.796,
+        "Expected years of schooling": 14.1,
+        "Gross national income (GNI) per capita": "26,903",
+        "HDI rank": 67
+    },
+    {
+        "Country": "Trinidad and Tobago",
+        "Human Development Index (HDI) ": 0.796,
+        "Expected years of schooling": 13,
+        "Gross national income (GNI) per capita": "26,231",
+        "HDI rank": 67
+    },
+    {
+        "Country": "Albania",
+        "Human Development Index (HDI) ": 0.795,
+        "Expected years of schooling": 14.7,
+        "Gross national income (GNI) per capita": "13,998",
+        "HDI rank": 69
+    },
+    {
+        "Country": "Cuba",
+        "Human Development Index (HDI) ": 0.783,
+        "Expected years of schooling": 14.3,
+        "Gross national income (GNI) per capita": "8,621",
+        "HDI rank": 70
+    },
+    {
+        "Country": "Iran (Islamic Republic of)",
+        "Human Development Index (HDI) ": 0.783,
+        "Expected years of schooling": 14.8,
+        "Gross national income (GNI) per capita": "12,447",
+        "HDI rank": 70
+    },
+    {
+        "Country": "Sri Lanka",
+        "Human Development Index (HDI) ": 0.782,
+        "Expected years of schooling": 14.1,
+        "Gross national income (GNI) per capita": "12,707",
+        "HDI rank": 72
+    },
+    {
+        "Country": "Bosnia and Herzegovina",
+        "Human Development Index (HDI) ": 0.78,
+        "Expected years of schooling": 13.8,
+        "Gross national income (GNI) per capita": "14,872",
+        "HDI rank": 73
+    },
+    {
+        "Country": "Grenada",
+        "Human Development Index (HDI) ": 0.779,
+        "Expected years of schooling": 16.9,
+        "Gross national income (GNI) per capita": "15,641",
+        "HDI rank": 74
+    },
+    {
+        "Country": "Mexico",
+        "Human Development Index (HDI) ": 0.779,
+        "Expected years of schooling": 14.8,
+        "Gross national income (GNI) per capita": "19,160",
+        "HDI rank": 74
+    },
+    {
+        "Country": "Saint Kitts and Nevis",
+        "Human Development Index (HDI) ": 0.779,
+        "Expected years of schooling": 13.8,
+        "Gross national income (GNI) per capita": "25,038",
+        "HDI rank": 74
+    },
+    {
+        "Country": "Ukraine",
+        "Human Development Index (HDI) ": 0.779,
+        "Expected years of schooling": 15.1,
+        "Gross national income (GNI) per capita": "13,216",
+        "HDI rank": 74
+    },
+    {
+        "Country": "Antigua and Barbuda",
+        "Human Development Index (HDI) ": 0.778,
+        "Expected years of schooling": 12.8,
+        "Gross national income (GNI) per capita": "20,895",
+        "HDI rank": 78
+    },
+    {
+        "Country": "Peru",
+        "Human Development Index (HDI) ": 0.777,
+        "Expected years of schooling": 15,
+        "Gross national income (GNI) per capita": "12,252",
+        "HDI rank": 79
+    },
+    {
+        "Country": "Thailand",
+        "Human Development Index (HDI) ": 0.777,
+        "Expected years of schooling": 15,
+        "Gross national income (GNI) per capita": "17,781",
+        "HDI rank": 79
+    },
+    {
+        "Country": "Armenia",
+        "Human Development Index (HDI) ": 0.776,
+        "Expected years of schooling": 13.1,
+        "Gross national income (GNI) per capita": "13,894",
+        "HDI rank": 81
+    },
+    {
+        "Country": "North Macedonia",
+        "Human Development Index (HDI) ": 0.774,
+        "Expected years of schooling": 13.6,
+        "Gross national income (GNI) per capita": "15,865",
+        "HDI rank": 82
+    },
+    {
+        "Country": "Colombia",
+        "Human Development Index (HDI) ": 0.767,
+        "Expected years of schooling": 14.4,
+        "Gross national income (GNI) per capita": "14,257",
+        "HDI rank": 83
+    },
+    {
+        "Country": "Brazil",
+        "Human Development Index (HDI) ": 0.765,
+        "Expected years of schooling": 15.4,
+        "Gross national income (GNI) per capita": "14,263",
+        "HDI rank": 84
+    },
+    {
+        "Country": "China",
+        "Human Development Index (HDI) ": 0.761,
+        "Expected years of schooling": 14,
+        "Gross national income (GNI) per capita": "16,057",
+        "HDI rank": 85
+    },
+    {
+        "Country": "Ecuador",
+        "Human Development Index (HDI) ": 0.759,
+        "Expected years of schooling": 14.6,
+        "Gross national income (GNI) per capita": "11,044",
+        "HDI rank": 86
+    },
+    {
+        "Country": "Saint Lucia",
+        "Human Development Index (HDI) ": 0.759,
+        "Expected years of schooling": 14,
+        "Gross national income (GNI) per capita": "14,616",
+        "HDI rank": 86
+    },
+    {
+        "Country": "Azerbaijan",
+        "Human Development Index (HDI) ": 0.756,
+        "Expected years of schooling": 12.9,
+        "Gross national income (GNI) per capita": "13,784",
+        "HDI rank": 88
+    },
+    {
+        "Country": "Dominican Republic",
+        "Human Development Index (HDI) ": 0.756,
+        "Expected years of schooling": 14.2,
+        "Gross national income (GNI) per capita": "17,591",
+        "HDI rank": 88
+    },
+    {
+        "Country": "Republic of Moldova",
+        "Human Development Index (HDI) ": 0.75,
+        "Expected years of schooling": 11.5,
+        "Gross national income (GNI) per capita": "13,664",
+        "HDI rank": 90
+    },
+    {
+        "Country": "Algeria",
+        "Human Development Index (HDI) ": 0.748,
+        "Expected years of schooling": 14.6,
+        "Gross national income (GNI) per capita": "11,174",
+        "HDI rank": 91
+    },
+    {
+        "Country": "Lebanon",
+        "Human Development Index (HDI) ": 0.744,
+        "Expected years of schooling": 11.3,
+        "Gross national income (GNI) per capita": "14,655",
+        "HDI rank": 92
+    },
+    {
+        "Country": "Fiji",
+        "Human Development Index (HDI) ": 0.743,
+        "Expected years of schooling": 14.4,
+        "Gross national income (GNI) per capita": "13,009",
+        "HDI rank": 93
+    },
+    {
+        "Country": "Dominica",
+        "Human Development Index (HDI) ": 0.742,
+        "Expected years of schooling": 13,
+        "Gross national income (GNI) per capita": "11,884",
+        "HDI rank": 94
+    },
+    {
+        "Country": "Maldives",
+        "Human Development Index (HDI) ": 0.74,
+        "Expected years of schooling": 12.2,
+        "Gross national income (GNI) per capita": "17,417",
+        "HDI rank": 95
+    },
+    {
+        "Country": "Tunisia",
+        "Human Development Index (HDI) ": 0.74,
+        "Expected years of schooling": 15.1,
+        "Gross national income (GNI) per capita": "10,414",
+        "HDI rank": 95
+    },
+    {
+        "Country": "Saint Vincent and the Grenadines",
+        "Human Development Index (HDI) ": 0.738,
+        "Expected years of schooling": 14.1,
+        "Gross national income (GNI) per capita": "12,378",
+        "HDI rank": 97
+    },
+    {
+        "Country": "Suriname",
+        "Human Development Index (HDI) ": 0.738,
+        "Expected years of schooling": 13.2,
+        "Gross national income (GNI) per capita": "14,324",
+        "HDI rank": 97
+    },
+    {
+        "Country": "Mongolia",
+        "Human Development Index (HDI) ": 0.737,
+        "Expected years of schooling": 14.2,
+        "Gross national income (GNI) per capita": "10,839",
+        "HDI rank": 99
+    },
+    {
+        "Country": "Botswana",
+        "Human Development Index (HDI) ": 0.735,
+        "Expected years of schooling": 12.8,
+        "Gross national income (GNI) per capita": "16,437",
+        "HDI rank": 100
+    },
+    {
+        "Country": "Jamaica",
+        "Human Development Index (HDI) ": 0.734,
+        "Expected years of schooling": 13.1,
+        "Gross national income (GNI) per capita": "9,319",
+        "HDI rank": 101
+    },
+    {
+        "Country": "Jordan",
+        "Human Development Index (HDI) ": 0.729,
+        "Expected years of schooling": 11.4,
+        "Gross national income (GNI) per capita": "9,858",
+        "HDI rank": 102
+    },
+    {
+        "Country": "Paraguay",
+        "Human Development Index (HDI) ": 0.728,
+        "Expected years of schooling": 12.7,
+        "Gross national income (GNI) per capita": "12,224",
+        "HDI rank": 103
+    },
+    {
+        "Country": "Tonga",
+        "Human Development Index (HDI) ": 0.725,
+        "Expected years of schooling": 14.4,
+        "Gross national income (GNI) per capita": "6,365",
+        "HDI rank": 104
+    },
+    {
+        "Country": "Libya",
+        "Human Development Index (HDI) ": 0.724,
+        "Expected years of schooling": 12.9,
+        "Gross national income (GNI) per capita": "15,688",
+        "HDI rank": 105
+    },
+    {
+        "Country": "Uzbekistan",
+        "Human Development Index (HDI) ": 0.72,
+        "Expected years of schooling": 12.1,
+        "Gross national income (GNI) per capita": "7,142",
+        "HDI rank": 106
+    },
+    {
+        "Country": "Bolivia (Plurinational State of)",
+        "Human Development Index (HDI) ": 0.718,
+        "Expected years of schooling": 14.2,
+        "Gross national income (GNI) per capita": "8,554",
+        "HDI rank": 107
+    },
+    {
+        "Country": "Indonesia",
+        "Human Development Index (HDI) ": 0.718,
+        "Expected years of schooling": 13.6,
+        "Gross national income (GNI) per capita": "11,459",
+        "HDI rank": 107
+    },
+    {
+        "Country": "Philippines",
+        "Human Development Index (HDI) ": 0.718,
+        "Expected years of schooling": 13.1,
+        "Gross national income (GNI) per capita": "9,778",
+        "HDI rank": 107
+    },
+    {
+        "Country": "Belize",
+        "Human Development Index (HDI) ": 0.716,
+        "Expected years of schooling": 13.1,
+        "Gross national income (GNI) per capita": "6,382",
+        "HDI rank": 110
+    },
+    {
+        "Country": "Samoa",
+        "Human Development Index (HDI) ": 0.715,
+        "Expected years of schooling": 12.7,
+        "Gross national income (GNI) per capita": "6,309",
+        "HDI rank": 111
+    },
+    {
+        "Country": "Turkmenistan",
+        "Human Development Index (HDI) ": 0.715,
+        "Expected years of schooling": 11.2,
+        "Gross national income (GNI) per capita": "14,909",
+        "HDI rank": 111
+    },
+    {
+        "Country": "Venezuela (Bolivarian Republic of)",
+        "Human Development Index (HDI) ": 0.711,
+        "Expected years of schooling": 12.8,
+        "Gross national income (GNI) per capita": "7,045",
+        "HDI rank": 113
+    },
+    {
+        "Country": "South Africa",
+        "Human Development Index (HDI) ": 0.709,
+        "Expected years of schooling": 13.8,
+        "Gross national income (GNI) per capita": "12,129",
+        "HDI rank": 114
+    },
+    {
+        "Country": "Palestine, State of",
+        "Human Development Index (HDI) ": 0.708,
+        "Expected years of schooling": 13.4,
+        "Gross national income (GNI) per capita": "6,417",
+        "HDI rank": 115
+    },
+    {
+        "Country": "Egypt",
+        "Human Development Index (HDI) ": 0.707,
+        "Expected years of schooling": 13.3,
+        "Gross national income (GNI) per capita": "11,466",
+        "HDI rank": 116
+    },
+    {
+        "Country": "Marshall Islands",
+        "Human Development Index (HDI) ": 0.704,
+        "Expected years of schooling": 12.4,
+        "Gross national income (GNI) per capita": "5,039",
+        "HDI rank": 117
+    },
+    {
+        "Country": "Viet Nam",
+        "Human Development Index (HDI) ": 0.704,
+        "Expected years of schooling": 12.7,
+        "Gross national income (GNI) per capita": "7,433",
+        "HDI rank": 117
+    },
+    {
+        "Country": "Gabon",
+        "Human Development Index (HDI) ": 0.703,
+        "Expected years of schooling": 13,
+        "Gross national income (GNI) per capita": "13,930",
+        "HDI rank": 119
+    },
+    {
+        "Country": "Kyrgyzstan",
+        "Human Development Index (HDI) ": 0.697,
+        "Expected years of schooling": 13,
+        "Gross national income (GNI) per capita": "4,864",
+        "HDI rank": 120
+    },
+    {
+        "Country": "Morocco",
+        "Human Development Index (HDI) ": 0.686,
+        "Expected years of schooling": 13.7,
+        "Gross national income (GNI) per capita": "7,368",
+        "HDI rank": 121
+    },
+    {
+        "Country": "Guyana",
+        "Human Development Index (HDI) ": 0.682,
+        "Expected years of schooling": 11.4,
+        "Gross national income (GNI) per capita": "9,455",
+        "HDI rank": 122
+    },
+    {
+        "Country": "Iraq",
+        "Human Development Index (HDI) ": 0.674,
+        "Expected years of schooling": 11.3,
+        "Gross national income (GNI) per capita": "10,801",
+        "HDI rank": 123
+    },
+    {
+        "Country": "El Salvador",
+        "Human Development Index (HDI) ": 0.673,
+        "Expected years of schooling": 11.7,
+        "Gross national income (GNI) per capita": "8,359",
+        "HDI rank": 124
+    },
+    {
+        "Country": "Tajikistan",
+        "Human Development Index (HDI) ": 0.668,
+        "Expected years of schooling": 11.7,
+        "Gross national income (GNI) per capita": "3,954",
+        "HDI rank": 125
+    },
+    {
+        "Country": "Cabo Verde",
+        "Human Development Index (HDI) ": 0.665,
+        "Expected years of schooling": 12.7,
+        "Gross national income (GNI) per capita": "7,019",
+        "HDI rank": 126
+    },
+    {
+        "Country": "Guatemala",
+        "Human Development Index (HDI) ": 0.663,
+        "Expected years of schooling": 10.8,
+        "Gross national income (GNI) per capita": "8,494",
+        "HDI rank": 127
+    },
+    {
+        "Country": "Nicaragua",
+        "Human Development Index (HDI) ": 0.66,
+        "Expected years of schooling": 12.3,
+        "Gross national income (GNI) per capita": "5,284",
+        "HDI rank": 128
+    },
+    {
+        "Country": "Bhutan",
+        "Human Development Index (HDI) ": 0.654,
+        "Expected years of schooling": 13,
+        "Gross national income (GNI) per capita": "10,746",
+        "HDI rank": 129
+    },
+    {
+        "Country": "Namibia",
+        "Human Development Index (HDI) ": 0.646,
+        "Expected years of schooling": 12.6,
+        "Gross national income (GNI) per capita": "9,357",
+        "HDI rank": 130
+    },
+    {
+        "Country": "India",
+        "Human Development Index (HDI) ": 0.645,
+        "Expected years of schooling": 12.2,
+        "Gross national income (GNI) per capita": "6,681",
+        "HDI rank": 131
+    },
+    {
+        "Country": "Honduras",
+        "Human Development Index (HDI) ": 0.634,
+        "Expected years of schooling": 10.1,
+        "Gross national income (GNI) per capita": "5,308",
+        "HDI rank": 132
+    },
+    {
+        "Country": "Bangladesh",
+        "Human Development Index (HDI) ": 0.632,
+        "Expected years of schooling": 11.6,
+        "Gross national income (GNI) per capita": "4,976",
+        "HDI rank": 133
+    },
+    {
+        "Country": "Kiribati",
+        "Human Development Index (HDI) ": 0.63,
+        "Expected years of schooling": 11.8,
+        "Gross national income (GNI) per capita": "4,260",
+        "HDI rank": 134
+    },
+    {
+        "Country": "Sao Tome and Principe",
+        "Human Development Index (HDI) ": 0.625,
+        "Expected years of schooling": 12.7,
+        "Gross national income (GNI) per capita": "3,952",
+        "HDI rank": 135
+    },
+    {
+        "Country": "Micronesia (Federated States of)",
+        "Human Development Index (HDI) ": 0.62,
+        "Expected years of schooling": 11.5,
+        "Gross national income (GNI) per capita": "3,983",
+        "HDI rank": 136
+    },
+    {
+        "Country": "Lao People's Democratic Republic",
+        "Human Development Index (HDI) ": 0.613,
+        "Expected years of schooling": 11,
+        "Gross national income (GNI) per capita": "7,413",
+        "HDI rank": 137
+    },
+    {
+        "Country": "Eswatini",
+        "Human Development Index (HDI) ": 0.611,
+        "Expected years of schooling": 11.8,
+        "Gross national income (GNI) per capita": "7,919",
+        "HDI rank": 138
+    },
+    {
+        "Country": "Ghana",
+        "Human Development Index (HDI) ": 0.611,
+        "Expected years of schooling": 11.5,
+        "Gross national income (GNI) per capita": "5,269",
+        "HDI rank": 138
+    },
+    {
+        "Country": "Vanuatu",
+        "Human Development Index (HDI) ": 0.609,
+        "Expected years of schooling": 11.7,
+        "Gross national income (GNI) per capita": "3,105",
+        "HDI rank": 140
+    },
+    {
+        "Country": "Timor-Leste",
+        "Human Development Index (HDI) ": 0.606,
+        "Expected years of schooling": 12.6,
+        "Gross national income (GNI) per capita": "4,440",
+        "HDI rank": 141
+    },
+    {
+        "Country": "Nepal",
+        "Human Development Index (HDI) ": 0.602,
+        "Expected years of schooling": 12.8,
+        "Gross national income (GNI) per capita": "3,457",
+        "HDI rank": 142
+    },
+    {
+        "Country": "Kenya",
+        "Human Development Index (HDI) ": 0.601,
+        "Expected years of schooling": 11.3,
+        "Gross national income (GNI) per capita": "4,244",
+        "HDI rank": 143
+    },
+    {
+        "Country": "Cambodia",
+        "Human Development Index (HDI) ": 0.594,
+        "Expected years of schooling": 11.5,
+        "Gross national income (GNI) per capita": "4,246",
+        "HDI rank": 144
+    },
+    {
+        "Country": "Equatorial Guinea",
+        "Human Development Index (HDI) ": 0.592,
+        "Expected years of schooling": 9.7,
+        "Gross national income (GNI) per capita": "13,944",
+        "HDI rank": 145
+    },
+    {
+        "Country": "Zambia",
+        "Human Development Index (HDI) ": 0.584,
+        "Expected years of schooling": 11.5,
+        "Gross national income (GNI) per capita": "3,326",
+        "HDI rank": 146
+    },
+    {
+        "Country": "Myanmar",
+        "Human Development Index (HDI) ": 0.583,
+        "Expected years of schooling": 10.7,
+        "Gross national income (GNI) per capita": "4,961",
+        "HDI rank": 147
+    },
+    {
+        "Country": "Angola",
+        "Human Development Index (HDI) ": 0.581,
+        "Expected years of schooling": 11.8,
+        "Gross national income (GNI) per capita": "6,104",
+        "HDI rank": 148
+    },
+    {
+        "Country": "Congo",
+        "Human Development Index (HDI) ": 0.574,
+        "Expected years of schooling": 11.7,
+        "Gross national income (GNI) per capita": "2,879",
+        "HDI rank": 149
+    },
+    {
+        "Country": "Zimbabwe",
+        "Human Development Index (HDI) ": 0.571,
+        "Expected years of schooling": 11,
+        "Gross national income (GNI) per capita": "2,666",
+        "HDI rank": 150
+    },
+    {
+        "Country": "Solomon Islands",
+        "Human Development Index (HDI) ": 0.567,
+        "Expected years of schooling": 10.2,
+        "Gross national income (GNI) per capita": "2,253",
+        "HDI rank": 151
+    },
+    {
+        "Country": "Syrian Arab Republic",
+        "Human Development Index (HDI) ": 0.567,
+        "Expected years of schooling": 8.9,
+        "Gross national income (GNI) per capita": "3,613",
+        "HDI rank": 151
+    },
+    {
+        "Country": "Cameroon",
+        "Human Development Index (HDI) ": 0.563,
+        "Expected years of schooling": 12.1,
+        "Gross national income (GNI) per capita": "3,581",
+        "HDI rank": 153
+    },
+    {
+        "Country": "Pakistan",
+        "Human Development Index (HDI) ": 0.557,
+        "Expected years of schooling": 8.3,
+        "Gross national income (GNI) per capita": "5,005",
+        "HDI rank": 154
+    },
+    {
+        "Country": "Papua New Guinea",
+        "Human Development Index (HDI) ": 0.555,
+        "Expected years of schooling": 10.2,
+        "Gross national income (GNI) per capita": "4,301",
+        "HDI rank": 155
+    },
+    {
+        "Country": "Comoros",
+        "Human Development Index (HDI) ": 0.554,
+        "Expected years of schooling": 11.2,
+        "Gross national income (GNI) per capita": "3,099",
+        "HDI rank": 156
+    },
+    {
+        "Country": "Mauritania",
+        "Human Development Index (HDI) ": 0.546,
+        "Expected years of schooling": 8.6,
+        "Gross national income (GNI) per capita": "5,135",
+        "HDI rank": 157
+    },
+    {
+        "Country": "Benin",
+        "Human Development Index (HDI) ": 0.545,
+        "Expected years of schooling": 12.6,
+        "Gross national income (GNI) per capita": "3,254",
+        "HDI rank": 158
+    },
+    {
+        "Country": "Uganda",
+        "Human Development Index (HDI) ": 0.544,
+        "Expected years of schooling": 11.4,
+        "Gross national income (GNI) per capita": "2,123",
+        "HDI rank": 159
+    },
+    {
+        "Country": "Rwanda",
+        "Human Development Index (HDI) ": 0.543,
+        "Expected years of schooling": 11.2,
+        "Gross national income (GNI) per capita": "2,155",
+        "HDI rank": 160
+    },
+    {
+        "Country": "Nigeria",
+        "Human Development Index (HDI) ": 0.539,
+        "Expected years of schooling": 10,
+        "Gross national income (GNI) per capita": "4,910",
+        "HDI rank": 161
+    },
+    {
+        "Country": "Côte d'Ivoire",
+        "Human Development Index (HDI) ": 0.538,
+        "Expected years of schooling": 10,
+        "Gross national income (GNI) per capita": "5,069",
+        "HDI rank": 162
+    },
+    {
+        "Country": "United Republic of Tanzania",
+        "Human Development Index (HDI) ": 0.529,
+        "Expected years of schooling": 8.1,
+        "Gross national income (GNI) per capita": "2,600",
+        "HDI rank": 163
+    },
+    {
+        "Country": "Madagascar",
+        "Human Development Index (HDI) ": 0.528,
+        "Expected years of schooling": 10.2,
+        "Gross national income (GNI) per capita": "1,596",
+        "HDI rank": 164
+    },
+    {
+        "Country": "Lesotho",
+        "Human Development Index (HDI) ": 0.527,
+        "Expected years of schooling": 11.3,
+        "Gross national income (GNI) per capita": "3,151",
+        "HDI rank": 165
+    },
+    {
+        "Country": "Djibouti",
+        "Human Development Index (HDI) ": 0.524,
+        "Expected years of schooling": 6.8,
+        "Gross national income (GNI) per capita": "5,689",
+        "HDI rank": 166
+    },
+    {
+        "Country": "Togo",
+        "Human Development Index (HDI) ": 0.515,
+        "Expected years of schooling": 12.7,
+        "Gross national income (GNI) per capita": "1,602",
+        "HDI rank": 167
+    },
+    {
+        "Country": "Senegal",
+        "Human Development Index (HDI) ": 0.512,
+        "Expected years of schooling": 8.6,
+        "Gross national income (GNI) per capita": "3,309",
+        "HDI rank": 168
+    },
+    {
+        "Country": "Afghanistan",
+        "Human Development Index (HDI) ": 0.511,
+        "Expected years of schooling": 10.2,
+        "Gross national income (GNI) per capita": "2,229",
+        "HDI rank": 169
+    },
+    {
+        "Country": "Haiti",
+        "Human Development Index (HDI) ": 0.51,
+        "Expected years of schooling": 9.7,
+        "Gross national income (GNI) per capita": "1,709",
+        "HDI rank": 170
+    },
+    {
+        "Country": "Sudan",
+        "Human Development Index (HDI) ": 0.51,
+        "Expected years of schooling": 7.9,
+        "Gross national income (GNI) per capita": "3,829",
+        "HDI rank": 170
+    },
+    {
+        "Country": "Gambia",
+        "Human Development Index (HDI) ": 0.496,
+        "Expected years of schooling": 9.9,
+        "Gross national income (GNI) per capita": "2,168",
+        "HDI rank": 172
+    },
+    {
+        "Country": "Ethiopia",
+        "Human Development Index (HDI) ": 0.485,
+        "Expected years of schooling": 8.8,
+        "Gross national income (GNI) per capita": "2,207",
+        "HDI rank": 173
+    },
+    {
+        "Country": "Malawi",
+        "Human Development Index (HDI) ": 0.483,
+        "Expected years of schooling": 11.2,
+        "Gross national income (GNI) per capita": "1,035",
+        "HDI rank": 174
+    },
+    {
+        "Country": "Democratic Republic of the Congo",
+        "Human Development Index (HDI) ": 0.48,
+        "Expected years of schooling": 9.7,
+        "Gross national income (GNI) per capita": "1,063",
+        "HDI rank": 175
+    },
+    {
+        "Country": "Guinea-Bissau",
+        "Human Development Index (HDI) ": 0.48,
+        "Expected years of schooling": 10.6,
+        "Gross national income (GNI) per capita": "1,996",
+        "HDI rank": 175
+    },
+    {
+        "Country": "Liberia",
+        "Human Development Index (HDI) ": 0.48,
+        "Expected years of schooling": 9.6,
+        "Gross national income (GNI) per capita": "1,258",
+        "HDI rank": 175
+    },
+    {
+        "Country": "Guinea",
+        "Human Development Index (HDI) ": 0.477,
+        "Expected years of schooling": 9.4,
+        "Gross national income (GNI) per capita": "2,405",
+        "HDI rank": 178
+    },
+    {
+        "Country": "Yemen",
+        "Human Development Index (HDI) ": 0.47,
+        "Expected years of schooling": 8.8,
+        "Gross national income (GNI) per capita": "1,594",
+        "HDI rank": 179
+    },
+    {
+        "Country": "Eritrea",
+        "Human Development Index (HDI) ": 0.459,
+        "Expected years of schooling": 5,
+        "Gross national income (GNI) per capita": "2,793",
+        "HDI rank": 180
+    },
+    {
+        "Country": "Mozambique",
+        "Human Development Index (HDI) ": 0.456,
+        "Expected years of schooling": 10,
+        "Gross national income (GNI) per capita": "1,250",
+        "HDI rank": 181
+    },
+    {
+        "Country": "Burkina Faso",
+        "Human Development Index (HDI) ": 0.452,
+        "Expected years of schooling": 9.3,
+        "Gross national income (GNI) per capita": "2,133",
+        "HDI rank": 182
+    },
+    {
+        "Country": "Sierra Leone",
+        "Human Development Index (HDI) ": 0.452,
+        "Expected years of schooling": 10.2,
+        "Gross national income (GNI) per capita": "1,668",
+        "HDI rank": 182
+    },
+    {
+        "Country": "Mali",
+        "Human Development Index (HDI) ": 0.434,
+        "Expected years of schooling": 7.5,
+        "Gross national income (GNI) per capita": "2,269",
+        "HDI rank": 184
+    },
+    {
+        "Country": "Burundi",
+        "Human Development Index (HDI) ": 0.433,
+        "Expected years of schooling": 11.1,
+        "Gross national income (GNI) per capita": "754",
+        "HDI rank": 185
+    },
+    {
+        "Country": "South Sudan",
+        "Human Development Index (HDI) ": 0.433,
+        "Expected years of schooling": 5.3,
+        "Gross national income (GNI) per capita": "2,003",
+        "HDI rank": 185
+    },
+    {
+        "Country": "Chad",
+        "Human Development Index (HDI) ": 0.398,
+        "Expected years of schooling": 7.3,
+        "Gross national income (GNI) per capita": "1,555",
+        "HDI rank": 187
+    },
+    {
+        "Country": "Central African Republic",
+        "Human Development Index (HDI) ": 0.397,
+        "Expected years of schooling": 7.6,
+        "Gross national income (GNI) per capita": "993",
+        "HDI rank": 188
+    },
+    {
+        "Country": "Niger",
+        "Human Development Index (HDI) ": 0.394,
+        "Expected years of schooling": 6.5,
+        "Gross national income (GNI) per capita": "1,201",
+        "HDI rank": 189
+    }
+]
