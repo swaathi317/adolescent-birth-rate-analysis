@@ -1,0 +1,766 @@
+[
+    {
+        "country": "Afghanistan",
+        "legality": "To save a woman's life"
+    },
+    {
+        "country": "Albania",
+        "legality": "No restriction"
+    },
+    {
+        "country": "Algeria",
+        "legality": "To preserve physical/mental health"
+    },
+    {
+        "country": "Andorra",
+        "legality": "Prohibited altogether"
+    },
+    {
+        "country": "Angola",
+        "legality": "Prohibited altogether"
+    },
+    {
+        "country": "Antigua and Barbuda",
+        "legality": "To save a woman's life"
+    },
+    {
+        "country": "Argentina",
+        "legality": "To preserve physical health"
+    },
+    {
+        "country": "Armenia",
+        "legality": "No restriction"
+    },
+    {
+        "country": "Australia",
+        "legality": "No restriction"
+    },
+    {
+        "country": "Austria",
+        "legality": "No restriction"
+    },
+    {
+        "country": "Azerbaijan",
+        "legality": "No restriction"
+    },
+    {
+        "country": "Bahamas",
+        "legality": "To preserve physical health"
+    },
+    {
+        "country": "Bahrain",
+        "legality": "No restriction"
+    },
+    {
+        "country": "Bangladesh",
+        "legality": "To save a woman's life"
+    },
+    {
+        "country": "Barbados",
+        "legality": "To preserve health/on socioeconomic grounds"
+    },
+    {
+        "country": "Belarus",
+        "legality": "No restriction"
+    },
+    {
+        "country": "Belgium",
+        "legality": "No restriction"
+    },
+    {
+        "country": "Belize",
+        "legality": "To preserve health/on socioeconomic grounds"
+    },
+    {
+        "country": "Benin",
+        "legality": "To preserve physical health"
+    },
+    {
+        "country": "Bhutan",
+        "legality": "To save a woman's life"
+    },
+    {
+        "country": "Bolivia",
+        "legality": "To preserve physical health"
+    },
+    {
+        "country": "Bosnia and Herzegovina",
+        "legality": "No restriction"
+    },
+    {
+        "country": "Botswana",
+        "legality": "To preserve physical/mental health"
+    },
+    {
+        "country": "Brazil",
+        "legality": "To save a woman's life"
+    },
+    {
+        "country": "Bulgaria",
+        "legality": "No restriction"
+    },
+    {
+        "country": "Burkina Faso",
+        "legality": "To preserve physical health"
+    },
+    {
+        "country": "Burundi",
+        "legality": "To preserve physical health"
+    },
+    {
+        "country": "Cambodia",
+        "legality": "No restriction"
+    },
+    {
+        "country": "Cameroon",
+        "legality": "To preserve physical health"
+    },
+    {
+        "country": "Canada",
+        "legality": "No restriction"
+    },
+    {
+        "country": "Cape Verde",
+        "legality": "No restriction"
+    },
+    {
+        "country": "Central African Republic",
+        "legality": "To preserve physical health"
+    },
+    {
+        "country": "Chad",
+        "legality": "To preserve physical health"
+    },
+    {
+        "country": "Chile",
+        "legality": "To save a woman's life"
+    },
+    {
+        "country": "Colombia",
+        "legality": "To preserve physical/mental health"
+    },
+    {
+        "country": "Comoros",
+        "legality": "To preserve physical health"
+    },
+    {
+        "country": "Costa Rica",
+        "legality": "To preserve physical health"
+    },
+    {
+        "country": "Croatia",
+        "legality": "No restriction"
+    },
+    {
+        "country": "Cuba",
+        "legality": "No restriction"
+    },
+    {
+        "country": "Cyprus",
+        "legality": "To preserve health/on socioeconomic grounds"
+    },
+    {
+        "country": "Czech Republic",
+        "legality": "No restriction"
+    },
+    {
+        "country": "Denmark",
+        "legality": "No restriction"
+    },
+    {
+        "country": "Djibouti",
+        "legality": "To preserve physical health"
+    },
+    {
+        "country": "Dominica",
+        "legality": "To save a woman's life"
+    },
+    {
+        "country": "Dominican Republic",
+        "legality": "Prohibited altogether"
+    },
+    {
+        "country": "Democratic Republic of the Congo",
+        "legality": "Prohibited altogether"
+    },
+    {
+        "country": "Ecuador",
+        "legality": "To preserve physical health"
+    },
+    {
+        "country": "Egypt",
+        "legality": "Prohibited altogether"
+    },
+    {
+        "country": "El Salvador",
+        "legality": "Prohibited altogether"
+    },
+    {
+        "country": "Equatorial Guinea",
+        "legality": "To preserve physical health"
+    },
+    {
+        "country": "Eritrea",
+        "legality": "To preserve physical/mental health"
+    },
+    {
+        "country": "Estonia",
+        "legality": "No restriction"
+    },
+    {
+        "country": "Eswatini",
+        "legality": "To preserve physical/mental health"
+    },
+    {
+        "country": "Ethiopia",
+        "legality": "To preserve physical health"
+    },
+    {
+        "country": "Fiji",
+        "legality": "To preserve health/on socioeconomic grounds"
+    },
+    {
+        "country": "Finland",
+        "legality": "To preserve health/on socioeconomic grounds"
+    },
+    {
+        "country": "France",
+        "legality": "No restriction"
+    },
+    {
+        "country": "Gabon",
+        "legality": "Prohibited altogether"
+    },
+    {
+        "country": "Gambia",
+        "legality": "To preserve physical/mental health"
+    },
+    {
+        "country": "Germany",
+        "legality": "No restriction"
+    },
+    {
+        "country": "Ghana",
+        "legality": "To preserve physical/mental health"
+    },
+    {
+        "country": "Greece",
+        "legality": "No restriction"
+    },
+    {
+        "country": "Grenada",
+        "legality": "To preserve physical health"
+    },
+    {
+        "country": "Guatemala",
+        "legality": "To save a woman's life"
+    },
+    {
+        "country": "Guinea",
+        "legality": "To preserve physical health"
+    },
+    {
+        "country": "Guyana",
+        "legality": "No restriction"
+    },
+    {
+        "country": "Haiti",
+        "legality": "Prohibited altogether"
+    },
+    {
+        "country": "Honduras",
+        "legality": "Prohibited altogether"
+    },
+    {
+        "country": "Hong Kong",
+        "legality": "To preserve health/on socioeconomic grounds"
+    },
+    {
+        "country": "Hungary",
+        "legality": "No restriction"
+    },
+    {
+        "country": "Iceland",
+        "legality": "To preserve health/on socioeconomic grounds"
+    },
+    {
+        "country": "India",
+        "legality": "To preserve health/on socioeconomic grounds"
+    },
+    {
+        "country": "Indonesia",
+        "legality": "To save a woman's life"
+    },
+    {
+        "country": "Iran",
+        "legality": "To save a woman's life"
+    },
+    {
+        "country": "Iraq",
+        "legality": "Prohibited altogether"
+    },
+    {
+        "country": "Ireland",
+        "legality": "To save a woman's life"
+    },
+    {
+        "country": "Israel",
+        "legality": "To preserve physical/mental health"
+    },
+    {
+        "country": "Italy",
+        "legality": "No restriction"
+    },
+    {
+        "country": "Ivory Coast",
+        "legality": "To save a woman's life"
+    },
+    {
+        "country": "Jamaica",
+        "legality": "To preserve physical/mental health"
+    },
+    {
+        "country": "Japan",
+        "legality": "To preserve health/on socioeconomic grounds"
+    },
+    {
+        "country": "Jordan",
+        "legality": "To preserve physical health"
+    },
+    {
+        "country": "Kazakhstan",
+        "legality": "No restriction"
+    },
+    {
+        "country": "Kenya",
+        "legality": "To preserve physical health"
+    },
+    {
+        "country": "Kiribati",
+        "legality": "To save a woman's life"
+    },
+    {
+        "country": "Kuwait",
+        "legality": "To preserve physical health"
+    },
+    {
+        "country": "Kyrgyzstan",
+        "legality": "No restriction"
+    },
+    {
+        "country": "Laos",
+        "legality": "Prohibited altogether"
+    },
+    {
+        "country": "Latvia",
+        "legality": "No restriction"
+    },
+    {
+        "country": "Lebanon",
+        "legality": "To save a woman's life"
+    },
+    {
+        "country": "Lesotho",
+        "legality": "To preserve physical health"
+    },
+    {
+        "country": "Liberia",
+        "legality": "To preserve physical/mental health"
+    },
+    {
+        "country": "Libya",
+        "legality": "To save a woman's life"
+    },
+    {
+        "country": "Liechtenstein",
+        "legality": "To preserve physical health"
+    },
+    {
+        "country": "Lithuania",
+        "legality": "No restriction"
+    },
+    {
+        "country": "Luxembourg",
+        "legality": "No restriction"
+    },
+    {
+        "country": "Madagascar",
+        "legality": "Prohibited altogether"
+    },
+    {
+        "country": "Malawi",
+        "legality": "To save a woman's life"
+    },
+    {
+        "country": "Malaysia",
+        "legality": "To preserve physical/mental health"
+    },
+    {
+        "country": "Maldives",
+        "legality": "To preserve physical health"
+    },
+    {
+        "country": "Mali",
+        "legality": "To save a woman's life"
+    },
+    {
+        "country": "Malta",
+        "legality": "Prohibited altogether"
+    },
+    {
+        "country": "Marshall Islands",
+        "legality": "Prohibited altogether"
+    },
+    {
+        "country": "Mauritania",
+        "legality": "Prohibited altogether"
+    },
+    {
+        "country": "Mauritius",
+        "legality": "To preserve physical/mental health"
+    },
+    {
+        "country": "Mexico",
+        "legality": "To save a woman's life"
+    },
+    {
+        "country": "Micronesia",
+        "legality": "Prohibited altogether"
+    },
+    {
+        "country": "Republic of Moldova",
+        "legality": "No restriction"
+    },
+    {
+        "country": "Monaco",
+        "legality": "To preserve physical health"
+    },
+    {
+        "country": "Mongolia",
+        "legality": "No restriction"
+    },
+    {
+        "country": "Montenegro",
+        "legality": "No restriction"
+    },
+    {
+        "country": "Morocco",
+        "legality": "To preserve physical health"
+    },
+    {
+        "country": "Mozambique",
+        "legality": "To preserve physical/mental health"
+    },
+    {
+        "country": "Myanmar",
+        "legality": "To save a woman's life"
+    },
+    {
+        "country": "Namibia",
+        "legality": "To preserve physical/mental health"
+    },
+    {
+        "country": "Nauru",
+        "legality": "To preserve physical/mental health"
+    },
+    {
+        "country": "Nepal",
+        "legality": "No restriction"
+    },
+    {
+        "country": "Netherlands",
+        "legality": "No restriction"
+    },
+    {
+        "country": "New Zealand",
+        "legality": "To preserve physical/mental health"
+    },
+    {
+        "country": "Nicaragua",
+        "legality": "Prohibited altogether"
+    },
+    {
+        "country": "Niger",
+        "legality": "To preserve physical health"
+    },
+    {
+        "country": "Nigeria",
+        "legality": "To save a woman's life"
+    },
+    {
+        "country": "Democratic People's Republic of Korea",
+        "legality": "No restriction"
+    },
+    {
+        "country": "North Macedonia",
+        "legality": "No restriction"
+    },
+    {
+        "country": "Norway",
+        "legality": "No restriction"
+    },
+    {
+        "country": "Oman",
+        "legality": "To save a woman's life"
+    },
+    {
+        "country": "Pakistan",
+        "legality": "To preserve physical health"
+    },
+    {
+        "country": "Palau",
+        "legality": "Prohibited altogether"
+    },
+    {
+        "country": "Panama",
+        "legality": "To save a woman's life"
+    },
+    {
+        "country": "Papua New Guinea",
+        "legality": "To save a woman's life"
+    },
+    {
+        "country": "Paraguay",
+        "legality": "To save a woman's life"
+    },
+    {
+        "country": "Peru",
+        "legality": "To preserve physical health"
+    },
+    {
+        "country": "Philippines",
+        "legality": "Prohibited altogether"
+    },
+    {
+        "country": "Poland",
+        "legality": "To preserve physical health"
+    },
+    {
+        "country": "Portugal",
+        "legality": "No restriction"
+    },
+    {
+        "country": "Qatar",
+        "legality": "To preserve physical health"
+    },
+    {
+        "country": "Congo",
+        "legality": "Prohibited altogether"
+    },
+    {
+        "country": "Romania",
+        "legality": "No restriction"
+    },
+    {
+        "country": "Russian Federation",
+        "legality": "No restriction"
+    },
+    {
+        "country": "Rwanda",
+        "legality": "To preserve physical health"
+    },
+    {
+        "country": "Saint Kitts and Nevis",
+        "legality": "To preserve physical/mental health"
+    },
+    {
+        "country": "Saint Lucia",
+        "legality": "To preserve physical/mental health"
+    },
+    {
+        "country": "Saint Vincent and the Grenadines",
+        "legality": "To preserve health/on socioeconomic grounds"
+    },
+    {
+        "country": "Samoa",
+        "legality": "To preserve physical/mental health"
+    },
+    {
+        "country": "San Marino",
+        "legality": "Prohibited altogether"
+    },
+    {
+        "country": "Sao Tome and Principe",
+        "legality": "Prohibited altogether"
+    },
+    {
+        "country": "Saudi Arabia",
+        "legality": "To preserve physical health"
+    },
+    {
+        "country": "Senegal",
+        "legality": "Prohibited altogether"
+    },
+    {
+        "country": "Serbia",
+        "legality": "No restriction"
+    },
+    {
+        "country": "Seychelles",
+        "legality": "To preserve physical/mental health"
+    },
+    {
+        "country": "Sierra Leone",
+        "legality": "To preserve physical/mental health"
+    },
+    {
+        "country": "Singapore",
+        "legality": "No restriction"
+    },
+    {
+        "country": "Slovakia",
+        "legality": "No restriction"
+    },
+    {
+        "country": "Slovenia",
+        "legality": "No restriction"
+    },
+    {
+        "country": "Solomon Islands",
+        "legality": "To save a woman's life"
+    },
+    {
+        "country": "Somalia",
+        "legality": "To save a woman's life"
+    },
+    {
+        "country": "South Africa",
+        "legality": "No restriction"
+    },
+    {
+        "country": "Republic of Korea",
+        "legality": "To preserve physical health"
+    },
+    {
+        "country": "South Sudan",
+        "legality": "To save a woman's life"
+    },
+    {
+        "country": "Spain",
+        "legality": "No restriction"
+    },
+    {
+        "country": "Sri Lanka",
+        "legality": "To save a woman's life"
+    },
+    {
+        "country": "Sudan",
+        "legality": "To save a woman's life"
+    },
+    {
+        "country": "Suriname",
+        "legality": "Prohibited altogether"
+    },
+    {
+        "country": "Sweden",
+        "legality": "No restriction"
+    },
+    {
+        "country": "Switzerland",
+        "legality": "No restriction"
+    },
+    {
+        "country": "Syria",
+        "legality": "To save a woman's life"
+    },
+    {
+        "country": "Taiwan",
+        "legality": "To preserve health/on socioeconomic grounds"
+    },
+    {
+        "country": "Tajikistan",
+        "legality": "No restriction"
+    },
+    {
+        "country": "Tanzania",
+        "legality": "To save a woman's life"
+    },
+    {
+        "country": "Thailand",
+        "legality": "To preserve physical/mental health"
+    },
+    {
+        "country": "Timor-Leste",
+        "legality": "To save a woman's life"
+    },
+    {
+        "country": "Togo",
+        "legality": "To preserve physical health"
+    },
+    {
+        "country": "Tonga",
+        "legality": "Prohibited altogether"
+    },
+    {
+        "country": "Trinidad and Tobago",
+        "legality": "To preserve physical/mental health"
+    },
+    {
+        "country": "Tunisia",
+        "legality": "No restriction"
+    },
+    {
+        "country": "Türkiye",
+        "legality": "No restriction"
+    },
+    {
+        "country": "Turkmenistan",
+        "legality": "No restriction"
+    },
+    {
+        "country": "Tuvalu",
+        "legality": "To save a woman's life"
+    },
+    {
+        "country": "Uganda",
+        "legality": "To save a woman's life"
+    },
+    {
+        "country": "Ukraine",
+        "legality": "No restriction"
+    },
+    {
+        "country": "United Arab Emirates",
+        "legality": "To save a woman's life"
+    },
+    {
+        "country": "United Kingdom",
+        "legality": "To preserve health/on socioeconomic grounds"
+    },
+    {
+        "country": "United States of America",
+        "legality": "Varies by state"
+    },
+    {
+        "country": "Uruguay",
+        "legality": "No restriction"
+    },
+    {
+        "country": "Uzbekistan",
+        "legality": "No restriction"
+    },
+    {
+        "country": "Vanuatu",
+        "legality": "To preserve physical health"
+    },
+    {
+        "country": "Venezuela",
+        "legality": "To save a woman's life"
+    },
+    {
+        "country": "Vietnam",
+        "legality": "No restriction"
+    },
+    {
+        "country": "Yemen",
+        "legality": "To save a woman's life"
+    },
+    {
+        "country": "Zambia",
+        "legality": "To preserve health/on socioeconomic grounds"
+    },
+    {
+        "country": "Zimbabwe",
+        "legality": "To preserve physical health"
+    }
+]

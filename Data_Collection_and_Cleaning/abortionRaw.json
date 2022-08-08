@@ -1,0 +1,957 @@
+[
+    {
+        "country": "Afghanistan",
+        "legality": "To save a woman's life",
+        "pop2022": "41128.7710"
+    },
+    {
+        "country": "Albania",
+        "legality": "No restriction",
+        "pop2022": "2842.3210"
+    },
+    {
+        "country": "Algeria",
+        "legality": "To preserve physical/mental health",
+        "pop2022": "44903.2250"
+    },
+    {
+        "country": "Andorra",
+        "legality": "Prohibited altogether",
+        "pop2022": "79.8240"
+    },
+    {
+        "country": "Angola",
+        "legality": "Prohibited altogether",
+        "pop2022": "35588.9870"
+    },
+    {
+        "country": "Antigua and Barbuda",
+        "legality": "To save a woman's life",
+        "pop2022": "93.7630"
+    },
+    {
+        "country": "Argentina",
+        "legality": "To preserve physical health",
+        "pop2022": "45510.3180"
+    },
+    {
+        "country": "Armenia",
+        "legality": "No restriction",
+        "pop2022": "2780.4690"
+    },
+    {
+        "country": "Australia",
+        "legality": "No restriction",
+        "pop2022": "26177.4130"
+    },
+    {
+        "country": "Austria",
+        "legality": "No restriction",
+        "pop2022": "8939.6170"
+    },
+    {
+        "country": "Azerbaijan",
+        "legality": "No restriction",
+        "pop2022": "10358.0740"
+    },
+    {
+        "country": "Bahamas",
+        "legality": "To preserve physical health",
+        "pop2022": "409.9840"
+    },
+    {
+        "country": "Bahrain",
+        "legality": "No restriction",
+        "pop2022": "1472.2330"
+    },
+    {
+        "country": "Bangladesh",
+        "legality": "To save a woman's life",
+        "pop2022": "171186.3720"
+    },
+    {
+        "country": "Barbados",
+        "legality": "To preserve health/on socioeconomic grounds",
+        "pop2022": "281.6350"
+    },
+    {
+        "country": "Belarus",
+        "legality": "No restriction",
+        "pop2022": "9534.9540"
+    },
+    {
+        "country": "Belgium",
+        "legality": "No restriction",
+        "pop2022": "11655.9300"
+    },
+    {
+        "country": "Belize",
+        "legality": "To preserve health/on socioeconomic grounds",
+        "pop2022": "405.2720"
+    },
+    {
+        "country": "Benin",
+        "legality": "To preserve physical health",
+        "pop2022": "13352.8640"
+    },
+    {
+        "country": "Bhutan",
+        "legality": "To save a woman's life",
+        "pop2022": "782.4550"
+    },
+    {
+        "country": "Bolivia",
+        "legality": "To preserve physical health",
+        "pop2022": "12224.1100"
+    },
+    {
+        "country": "Bosnia and Herzegovina",
+        "legality": "No restriction",
+        "pop2022": "3233.5260"
+    },
+    {
+        "country": "Botswana",
+        "legality": "To preserve physical/mental health",
+        "pop2022": "2630.2960"
+    },
+    {
+        "country": "Brazil",
+        "legality": "To save a woman's life",
+        "pop2022": "215313.4980"
+    },
+    {
+        "country": "Bulgaria",
+        "legality": "No restriction",
+        "pop2022": "6781.9530"
+    },
+    {
+        "country": "Burkina Faso",
+        "legality": "To preserve physical health",
+        "pop2022": "22673.7620"
+    },
+    {
+        "country": "Burundi",
+        "legality": "To preserve physical health",
+        "pop2022": "12889.5760"
+    },
+    {
+        "country": "Cambodia",
+        "legality": "No restriction",
+        "pop2022": "16767.8420"
+    },
+    {
+        "country": "Cameroon",
+        "legality": "To preserve physical health",
+        "pop2022": "27914.5360"
+    },
+    {
+        "country": "Canada",
+        "legality": "No restriction",
+        "pop2022": "38454.3270"
+    },
+    {
+        "country": "Cape Verde",
+        "legality": "No restriction",
+        "pop2022": "593.1490"
+    },
+    {
+        "country": "Central African Republic",
+        "legality": "To preserve physical health",
+        "pop2022": "5579.1440"
+    },
+    {
+        "country": "Chad",
+        "legality": "To preserve physical health",
+        "pop2022": "17723.3150"
+    },
+    {
+        "country": "Chile",
+        "legality": "To save a woman's life",
+        "pop2022": "19603.7330"
+    },
+    {
+        "country": "Colombia",
+        "legality": "To preserve physical/mental health",
+        "pop2022": "51874.0240"
+    },
+    {
+        "country": "Comoros",
+        "legality": "To preserve physical health",
+        "pop2022": "836.7740"
+    },
+    {
+        "country": "Costa Rica",
+        "legality": "To preserve physical health",
+        "pop2022": "5180.8290"
+    },
+    {
+        "country": "Croatia",
+        "legality": "No restriction",
+        "pop2022": "4030.3580"
+    },
+    {
+        "country": "Cuba",
+        "legality": "No restriction",
+        "pop2022": "11212.1910"
+    },
+    {
+        "country": "Cyprus",
+        "legality": "To preserve health/on socioeconomic grounds",
+        "pop2022": "1251.4880"
+    },
+    {
+        "country": "Czech Republic",
+        "legality": "No restriction",
+        "pop2022": "10493.9860"
+    },
+    {
+        "country": "Denmark",
+        "legality": "No restriction",
+        "pop2022": "5882.2610"
+    },
+    {
+        "country": "Djibouti",
+        "legality": "To preserve physical health",
+        "pop2022": "1120.8490"
+    },
+    {
+        "country": "Dominica",
+        "legality": "To save a woman's life",
+        "pop2022": "72.7370"
+    },
+    {
+        "country": "Dominican Republic",
+        "legality": "Prohibited altogether",
+        "pop2022": "11228.8210"
+    },
+    {
+        "country": "Democratic Republic of the Congo",
+        "legality": "Prohibited altogether",
+        "pop2022": "99010.2120"
+    },
+    {
+        "country": "Ecuador",
+        "legality": "To preserve physical health",
+        "pop2022": 18001
+    },
+    {
+        "country": "Egypt",
+        "legality": "Prohibited altogether",
+        "pop2022": "110990.1030"
+    },
+    {
+        "country": "El Salvador",
+        "legality": "Prohibited altogether",
+        "pop2022": "6336.3920"
+    },
+    {
+        "country": "Equatorial Guinea",
+        "legality": "To preserve physical health",
+        "pop2022": "1674.9080"
+    },
+    {
+        "country": "Eritrea",
+        "legality": "To preserve physical/mental health",
+        "pop2022": "3684.0320"
+    },
+    {
+        "country": "Estonia",
+        "legality": "No restriction",
+        "pop2022": "1326.0620"
+    },
+    {
+        "country": "Eswatini",
+        "legality": "To preserve physical/mental health",
+        "pop2022": "1201.6700"
+    },
+    {
+        "country": "Ethiopia",
+        "legality": "To preserve physical health",
+        "pop2022": "123379.9240"
+    },
+    {
+        "country": "Fiji",
+        "legality": "To preserve health/on socioeconomic grounds",
+        "pop2022": "929.7660"
+    },
+    {
+        "country": "Finland",
+        "legality": "To preserve health/on socioeconomic grounds",
+        "pop2022": "5540.7450"
+    },
+    {
+        "country": "France",
+        "legality": "No restriction",
+        "pop2022": "64626.6280"
+    },
+    {
+        "country": "Gabon",
+        "legality": "Prohibited altogether",
+        "pop2022": "2388.9920"
+    },
+    {
+        "country": "Gambia",
+        "legality": "To preserve physical/mental health",
+        "pop2022": "2705.9920"
+    },
+    {
+        "country": "Germany",
+        "legality": "No restriction",
+        "pop2022": "83369.8430"
+    },
+    {
+        "country": "Ghana",
+        "legality": "To preserve physical/mental health",
+        "pop2022": "33475.8700"
+    },
+    {
+        "country": "Greece",
+        "legality": "No restriction",
+        "pop2022": "10384.9710"
+    },
+    {
+        "country": "Grenada",
+        "legality": "To preserve physical health",
+        "pop2022": "125.4380"
+    },
+    {
+        "country": "Guatemala",
+        "legality": "To save a woman's life",
+        "pop2022": "17843.9080"
+    },
+    {
+        "country": "Guinea",
+        "legality": "To preserve physical health",
+        "pop2022": "13859.3410"
+    },
+    {
+        "country": "Guyana",
+        "legality": "No restriction",
+        "pop2022": "808.7260"
+    },
+    {
+        "country": "Haiti",
+        "legality": "Prohibited altogether",
+        "pop2022": "11584.9960"
+    },
+    {
+        "country": "Honduras",
+        "legality": "Prohibited altogether",
+        "pop2022": "10432.8600"
+    },
+    {
+        "country": "Hong Kong",
+        "legality": "To preserve health/on socioeconomic grounds",
+        "pop2022": "7488.8650"
+    },
+    {
+        "country": "Hungary",
+        "legality": "No restriction",
+        "pop2022": "9967.3080"
+    },
+    {
+        "country": "Iceland",
+        "legality": "To preserve health/on socioeconomic grounds",
+        "pop2022": "372.8990"
+    },
+    {
+        "country": "India",
+        "legality": "To preserve health/on socioeconomic grounds",
+        "pop2022": "1417173.1730"
+    },
+    {
+        "country": "Indonesia",
+        "legality": "To save a woman's life",
+        "pop2022": "275501.3390"
+    },
+    {
+        "country": "Iran",
+        "legality": "To save a woman's life",
+        "pop2022": "88550.5700"
+    },
+    {
+        "country": "Iraq",
+        "legality": "Prohibited altogether",
+        "pop2022": "44496.1220"
+    },
+    {
+        "country": "Ireland",
+        "legality": "To save a woman's life",
+        "pop2022": "5023.1090"
+    },
+    {
+        "country": "Israel",
+        "legality": "To preserve physical/mental health",
+        "pop2022": "9038.3090"
+    },
+    {
+        "country": "Italy",
+        "legality": "No restriction",
+        "pop2022": "59037.4740"
+    },
+    {
+        "country": "Ivory Coast",
+        "legality": "To save a woman's life",
+        "pop2022": "28160.5420"
+    },
+    {
+        "country": "Jamaica",
+        "legality": "To preserve physical/mental health",
+        "pop2022": "2827.3770"
+    },
+    {
+        "country": "Japan",
+        "legality": "To preserve health/on socioeconomic grounds",
+        "pop2022": "123951.6920"
+    },
+    {
+        "country": "Jordan",
+        "legality": "To preserve physical health",
+        "pop2022": "11285.8690"
+    },
+    {
+        "country": "Kazakhstan",
+        "legality": "No restriction",
+        "pop2022": "19397.9980"
+    },
+    {
+        "country": "Kenya",
+        "legality": "To preserve physical health",
+        "pop2022": "54027.4870"
+    },
+    {
+        "country": "Kiribati",
+        "legality": "To save a woman's life",
+        "pop2022": "131.2320"
+    },
+    {
+        "country": "Kuwait",
+        "legality": "To preserve physical health",
+        "pop2022": "4268.8730"
+    },
+    {
+        "country": "Kyrgyzstan",
+        "legality": "No restriction",
+        "pop2022": "6630.6230"
+    },
+    {
+        "country": "Laos",
+        "legality": "Prohibited altogether",
+        "pop2022": "7529.4750"
+    },
+    {
+        "country": "Latvia",
+        "legality": "No restriction",
+        "pop2022": "1850.6510"
+    },
+    {
+        "country": "Lebanon",
+        "legality": "To save a woman's life",
+        "pop2022": "5489.7390"
+    },
+    {
+        "country": "Lesotho",
+        "legality": "To preserve physical health",
+        "pop2022": "2305.8250"
+    },
+    {
+        "country": "Liberia",
+        "legality": "To preserve physical/mental health",
+        "pop2022": "5302.6810"
+    },
+    {
+        "country": "Libya",
+        "legality": "To save a woman's life",
+        "pop2022": "6812.3410"
+    },
+    {
+        "country": "Liechtenstein",
+        "legality": "To preserve physical health",
+        "pop2022": "39.3270"
+    },
+    {
+        "country": "Lithuania",
+        "legality": "No restriction",
+        "pop2022": "2750.0550"
+    },
+    {
+        "country": "Luxembourg",
+        "legality": "No restriction",
+        "pop2022": "647.5990"
+    },
+    {
+        "country": "Madagascar",
+        "legality": "Prohibited altogether",
+        "pop2022": "29611.7140"
+    },
+    {
+        "country": "Malawi",
+        "legality": "To save a woman's life",
+        "pop2022": "20405.3170"
+    },
+    {
+        "country": "Malaysia",
+        "legality": "To preserve physical/mental health",
+        "pop2022": "33938.2210"
+    },
+    {
+        "country": "Maldives",
+        "legality": "To preserve physical health",
+        "pop2022": "523.7870"
+    },
+    {
+        "country": "Mali",
+        "legality": "To save a woman's life",
+        "pop2022": "22593.5900"
+    },
+    {
+        "country": "Malta",
+        "legality": "Prohibited altogether",
+        "pop2022": "533.2860"
+    },
+    {
+        "country": "Marshall Islands",
+        "legality": "Prohibited altogether",
+        "pop2022": "41.5690"
+    },
+    {
+        "country": "Mauritania",
+        "legality": "Prohibited altogether",
+        "pop2022": "4736.1390"
+    },
+    {
+        "country": "Mauritius",
+        "legality": "To preserve physical/mental health",
+        "pop2022": "1299.4690"
+    },
+    {
+        "country": "Mexico",
+        "legality": "To save a woman's life",
+        "pop2022": "127504.1250"
+    },
+    {
+        "country": "Micronesia",
+        "legality": "Prohibited altogether",
+        "pop2022": "114.1640"
+    },
+    {
+        "country": "Republic of Moldova",
+        "legality": "No restriction",
+        "pop2022": "3272.9960"
+    },
+    {
+        "country": "Monaco",
+        "legality": "To preserve physical health",
+        "pop2022": "36.4690"
+    },
+    {
+        "country": "Mongolia",
+        "legality": "No restriction",
+        "pop2022": "3398.3660"
+    },
+    {
+        "country": "Montenegro",
+        "legality": "No restriction",
+        "pop2022": "627.0820"
+    },
+    {
+        "country": "Morocco",
+        "legality": "To preserve physical health",
+        "pop2022": "37457.9710"
+    },
+    {
+        "country": "Mozambique",
+        "legality": "To preserve physical/mental health",
+        "pop2022": "32969.5180"
+    },
+    {
+        "country": "Myanmar",
+        "legality": "To save a woman's life",
+        "pop2022": "54179.3060"
+    },
+    {
+        "country": "Namibia",
+        "legality": "To preserve physical/mental health",
+        "pop2022": "2567.0120"
+    },
+    {
+        "country": "Nauru",
+        "legality": "To preserve physical/mental health",
+        "pop2022": "12.6680"
+    },
+    {
+        "country": "Nepal",
+        "legality": "No restriction",
+        "pop2022": "30547.5800"
+    },
+    {
+        "country": "Netherlands",
+        "legality": "No restriction",
+        "pop2022": "17564.0140"
+    },
+    {
+        "country": "New Zealand",
+        "legality": "To preserve physical/mental health",
+        "pop2022": "5185.2880"
+    },
+    {
+        "country": "Nicaragua",
+        "legality": "Prohibited altogether",
+        "pop2022": "6948.3920"
+    },
+    {
+        "country": "Niger",
+        "legality": "To preserve physical health",
+        "pop2022": "26207.9770"
+    },
+    {
+        "country": "Nigeria",
+        "legality": "To save a woman's life",
+        "pop2022": "218541.2120"
+    },
+    {
+        "country": "Democratic People's Republic of Korea",
+        "legality": "No restriction",
+        "pop2022": "26069.4160"
+    },
+    {
+        "country": "North Macedonia",
+        "legality": "No restriction",
+        "pop2022": "2093.5990"
+    },
+    {
+        "country": "Norway",
+        "legality": "No restriction",
+        "pop2022": "5434.3190"
+    },
+    {
+        "country": "Oman",
+        "legality": "To save a woman's life",
+        "pop2022": "4576.2980"
+    },
+    {
+        "country": "Pakistan",
+        "legality": "To preserve physical health",
+        "pop2022": "235824.8620"
+    },
+    {
+        "country": "Palau",
+        "legality": "Prohibited altogether",
+        "pop2022": "18.0550"
+    },
+    {
+        "country": "Panama",
+        "legality": "To save a woman's life",
+        "pop2022": "4408.5810"
+    },
+    {
+        "country": "Papua New Guinea",
+        "legality": "To save a woman's life",
+        "pop2022": "10142.6190"
+    },
+    {
+        "country": "Paraguay",
+        "legality": "To save a woman's life",
+        "pop2022": "6780.7440"
+    },
+    {
+        "country": "Peru",
+        "legality": "To preserve physical health",
+        "pop2022": "34049.5880"
+    },
+    {
+        "country": "Philippines",
+        "legality": "Prohibited altogether",
+        "pop2022": "115559.0090"
+    },
+    {
+        "country": "Poland",
+        "legality": "To preserve physical health",
+        "pop2022": "39857.1450"
+    },
+    {
+        "country": "Portugal",
+        "legality": "No restriction",
+        "pop2022": "10270.8650"
+    },
+    {
+        "country": "Qatar",
+        "legality": "To preserve physical health",
+        "pop2022": "2695.1220"
+    },
+    {
+        "country": "Congo",
+        "legality": "Prohibited altogether",
+        "pop2022": "5970.4240"
+    },
+    {
+        "country": "Romania",
+        "legality": "No restriction",
+        "pop2022": "19659.2670"
+    },
+    {
+        "country": "Russian Federation",
+        "legality": "No restriction",
+        "pop2022": "144713.3140"
+    },
+    {
+        "country": "Rwanda",
+        "legality": "To preserve physical health",
+        "pop2022": "13776.6980"
+    },
+    {
+        "country": "Saint Kitts and Nevis",
+        "legality": "To preserve physical/mental health",
+        "pop2022": "47.6570"
+    },
+    {
+        "country": "Saint Lucia",
+        "legality": "To preserve physical/mental health",
+        "pop2022": "179.8570"
+    },
+    {
+        "country": "Saint Vincent and the Grenadines",
+        "legality": "To preserve health/on socioeconomic grounds",
+        "pop2022": "103.9480"
+    },
+    {
+        "country": "Samoa",
+        "legality": "To preserve physical/mental health",
+        "pop2022": "222.3820"
+    },
+    {
+        "country": "San Marino",
+        "legality": "Prohibited altogether",
+        "pop2022": "33.6600"
+    },
+    {
+        "country": "Sao Tome and Principe",
+        "legality": "Prohibited altogether",
+        "pop2022": "227.3800"
+    },
+    {
+        "country": "Saudi Arabia",
+        "legality": "To preserve physical health",
+        "pop2022": "36408.8200"
+    },
+    {
+        "country": "Senegal",
+        "legality": "Prohibited altogether",
+        "pop2022": "17316.4490"
+    },
+    {
+        "country": "Serbia",
+        "legality": "No restriction",
+        "pop2022": "7221.3650"
+    },
+    {
+        "country": "Seychelles",
+        "legality": "To preserve physical/mental health",
+        "pop2022": "107.1180"
+    },
+    {
+        "country": "Sierra Leone",
+        "legality": "To preserve physical/mental health",
+        "pop2022": "8605.7180"
+    },
+    {
+        "country": "Singapore",
+        "legality": "No restriction",
+        "pop2022": "5975.6890"
+    },
+    {
+        "country": "Slovakia",
+        "legality": "No restriction",
+        "pop2022": "5643.4530"
+    },
+    {
+        "country": "Slovenia",
+        "legality": "No restriction",
+        "pop2022": "2119.8440"
+    },
+    {
+        "country": "Solomon Islands",
+        "legality": "To save a woman's life",
+        "pop2022": "724.2730"
+    },
+    {
+        "country": "Somalia",
+        "legality": "To save a woman's life",
+        "pop2022": "17597.5110"
+    },
+    {
+        "country": "South Africa",
+        "legality": "No restriction",
+        "pop2022": "59893.8850"
+    },
+    {
+        "country": "Republic of Korea",
+        "legality": "To preserve physical health",
+        "pop2022": "51815.8100"
+    },
+    {
+        "country": "South Sudan",
+        "legality": "To save a woman's life",
+        "pop2022": "10913.1640"
+    },
+    {
+        "country": "Spain",
+        "legality": "No restriction",
+        "pop2022": "47558.6300"
+    },
+    {
+        "country": "Sri Lanka",
+        "legality": "To save a woman's life",
+        "pop2022": "21832.1430"
+    },
+    {
+        "country": "Sudan",
+        "legality": "To save a woman's life",
+        "pop2022": "46874.2040"
+    },
+    {
+        "country": "Suriname",
+        "legality": "Prohibited altogether",
+        "pop2022": "618.0400"
+    },
+    {
+        "country": "Sweden",
+        "legality": "No restriction",
+        "pop2022": "10549.3470"
+    },
+    {
+        "country": "Switzerland",
+        "legality": "No restriction",
+        "pop2022": "8740.4720"
+    },
+    {
+        "country": "Syria",
+        "legality": "To save a woman's life",
+        "pop2022": "22125.2490"
+    },
+    {
+        "country": "Taiwan",
+        "legality": "To preserve health/on socioeconomic grounds",
+        "pop2022": "23893.3940"
+    },
+    {
+        "country": "Tajikistan",
+        "legality": "No restriction",
+        "pop2022": "9952.7870"
+    },
+    {
+        "country": "Tanzania",
+        "legality": "To save a woman's life",
+        "pop2022": "65497.7480"
+    },
+    {
+        "country": "Thailand",
+        "legality": "To preserve physical/mental health",
+        "pop2022": "71697.0300"
+    },
+    {
+        "country": "Timor-Leste",
+        "legality": "To save a woman's life",
+        "pop2022": "1341.2960"
+    },
+    {
+        "country": "Togo",
+        "legality": "To preserve physical health",
+        "pop2022": "8848.6990"
+    },
+    {
+        "country": "Tonga",
+        "legality": "Prohibited altogether",
+        "pop2022": "106.8580"
+    },
+    {
+        "country": "Trinidad and Tobago",
+        "legality": "To preserve physical/mental health",
+        "pop2022": "1531.0440"
+    },
+    {
+        "country": "Tunisia",
+        "legality": "No restriction",
+        "pop2022": "12356.1170"
+    },
+    {
+        "country": "Türkiye",
+        "legality": "No restriction",
+        "pop2022": "85341.2410"
+    },
+    {
+        "country": "Turkmenistan",
+        "legality": "No restriction",
+        "pop2022": "6430.7700"
+    },
+    {
+        "country": "Tuvalu",
+        "legality": "To save a woman's life",
+        "pop2022": "11.3120"
+    },
+    {
+        "country": "Uganda",
+        "legality": "To save a woman's life",
+        "pop2022": "47249.5850"
+    },
+    {
+        "country": "Ukraine",
+        "legality": "No restriction",
+        "pop2022": "39701.7390"
+    },
+    {
+        "country": "United Arab Emirates",
+        "legality": "To save a woman's life",
+        "pop2022": "9441.1290"
+    },
+    {
+        "country": "United Kingdom",
+        "legality": "To preserve health/on socioeconomic grounds",
+        "pop2022": "67508.9360"
+    },
+    {
+        "country": "United States of America",
+        "legality": "Varies by state",
+        "pop2022": "338289.8570"
+    },
+    {
+        "country": "Uruguay",
+        "legality": "No restriction",
+        "pop2022": "3422.7940"
+    },
+    {
+        "country": "Uzbekistan",
+        "legality": "No restriction",
+        "pop2022": "34627.6520"
+    },
+    {
+        "country": "Vanuatu",
+        "legality": "To preserve physical health",
+        "pop2022": "326.7400"
+    },
+    {
+        "country": "Venezuela",
+        "legality": "To save a woman's life",
+        "pop2022": "28301.6960"
+    },
+    {
+        "country": "Vietnam",
+        "legality": "No restriction",
+        "pop2022": "98186.8560"
+    },
+    {
+        "country": "Yemen",
+        "legality": "To save a woman's life",
+        "pop2022": "33696.6140"
+    },
+    {
+        "country": "Zambia",
+        "legality": "To preserve health/on socioeconomic grounds",
+        "pop2022": "20017.6750"
+    },
+    {
+        "country": "Zimbabwe",
+        "legality": "To preserve physical health",
+        "pop2022": "16320.5370"
+    }
+]
