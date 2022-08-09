@@ -1,1 +1,866 @@
-[{"Country":"Afghanistan","Avg. age":21.5},{"Country":"Albania","Avg. age":24.200001},{"Country":"Algeria","Avg. age":28.200001},{"Country":"Angola","Avg. age":21.5},{"Country":"Anguilla","Avg. age":28.6},{"Country":"Antigua and Barbuda","Avg. age":25.700001},{"Country":"Argentina","Avg. age":24.6},{"Country":"Armenia","Avg. age":24.200001},{"Country":"Aruba","Avg. age":28.5},{"Country":"Australia","Avg. age":28.799999},{"Country":"Austria","Avg. age":31.5},{"Country":"Azerbaijan","Avg. age":24.200001},{"Country":"Bahamas","Avg. age":27.9},{"Country":"Bahrain","Avg. age":26.9},{"Country":"Bangladesh","Avg. age":18.799999},{"Country":"Barbados","Avg. age":31.9},{"Country":"Belarus","Avg. age":24.6},{"Country":"Belgium","Avg. age":31.200001},{"Country":"Belize","Avg. age":28.6},{"Country":"Benin","Avg. age":20.700001},{"Country":"Bermuda","Avg. age":31.9},{"Country":"Bhutan","Avg. age":23.799999},{"Country":"Bolivia","Avg. age":24.0},{"Country":"Bosnia and Herzegovina","Avg. age":25.700001},{"Country":"Botswana","Avg. age":24.799999},{"Country":"Brazil","Avg. age":23.9},{"Country":"Brunei","Avg. age":26.1},{"Country":"Bulgaria","Avg. age":27.299999},{"Country":"Burkina Faso","Avg. age":20.0},{"Country":"Burundi","Avg. age":22.799999},{"Country":"Cambodia","Avg. age":21.6},{"Country":"Cameroon","Avg. age":22.200001},{"Country":"Canada","Avg. age":29.1},{"Country":"Cayman Islands","Avg. age":28.0},{"Country":"Central African Republic","Avg. age":17.299999},{"Country":"Chad","Avg. age":18.799999},{"Country":"Channel Islands","Avg. age":29.700001},{"Country":"Chile","Avg. age":31.5},{"Country":"China","Avg. age":25.4},{"Country":"Colombia","Avg. age":22.700001},{"Country":"Comoros","Avg. age":22.6},{"Country":"Congo","Avg. age":21.9},{"Country":"Cook Islands","Avg. age":28.0},{"Country":"Costa Rica","Avg. age":26.4},{"Country":"Cote d'Ivoire","Avg. age":23.0},{"Country":"Croatia","Avg. age":28.200001},{"Country":"Cuba","Avg. age":21.299999},{"Country":"Cyprus","Avg. age":27.700001},{"Country":"Czechia","Avg. age":29.1},{"Country":"Democratic Republic of Congo","Avg. age":20.9},{"Country":"Denmark","Avg. age":32.400002},{"Country":"Djibouti","Avg. age":29.9},{"Country":"Dominica","Avg. age":32.5},{"Country":"Dominican Republic","Avg. age":21.5},{"Country":"Ecuador","Avg. age":22.200001},{"Country":"Egypt","Avg. age":22.0},{"Country":"El Salvador","Avg. age":22.6},{"Country":"Equatorial Guinea","Avg. age":20.5},{"Country":"Eritrea","Avg. age":20.6},{"Country":"Estonia","Avg. age":29.700001},{"Country":"Eswatini","Avg. age":26.5},{"Country":"Ethiopia","Avg. age":21.299999},{"Country":"Faeroe Islands","Avg. age":31.0},{"Country":"Falkland Islands","Avg. age":29.0},{"Country":"Fiji","Avg. age":24.1},{"Country":"Finland","Avg. age":31.6},{"Country":"France","Avg. age":32.200001},{"Country":"French Guiana","Avg. age":32.0},{"Country":"French Polynesia","Avg. age":33.799999},{"Country":"Gabon","Avg. age":22.9},{"Country":"Gambia","Avg. age":21.5},{"Country":"Georgia","Avg. age":22.799999},{"Country":"Germany","Avg. age":31.200001},{"Country":"Ghana","Avg. age":23.700001},{"Country":"Gibraltar","Avg. age":29.1},{"Country":"Greece","Avg. age":30.299999},{"Country":"Greenland","Avg. age":32.900002},{"Country":"Guatemala","Avg. age":22.200001},{"Country":"Guinea","Avg. age":20.6},{"Country":"Guinea-Bissau","Avg. age":24.1},{"Country":"Guyana","Avg. age":19.200001},{"Country":"Haiti","Avg. age":24.9},{"Country":"Honduras","Avg. age":21.200001},{"Country":"Hong Kong","Avg. age":29.9},{"Country":"Hungary","Avg. age":29.4},{"Country":"Iceland","Avg. age":32.400002},{"Country":"India","Avg. age":21.4},{"Country":"Indonesia","Avg. age":22.4},{"Country":"Iran","Avg. age":23.1},{"Country":"Iraq","Avg. age":22.700001},{"Country":"Ireland","Avg. age":32.0},{"Country":"Isle of Man","Avg. age":30.700001},{"Country":"Israel","Avg. age":25.1},{"Country":"Italy","Avg. age":32.200001},{"Country":"Japan","Avg. age":29.4},{"Country":"Jordan","Avg. age":24.6},{"Country":"Kazakhstan","Avg. age":22.4},{"Country":"Kenya","Avg. age":21.9},{"Country":"Kiribati","Avg. age":21.6},{"Country":"Korea","Avg. age":30.200001},{"Country":"Kosovo","Avg. age":25.200001},{"Country":"Kuwait","Avg. age":25.700001},{"Country":"Kyrgyzstan","Avg. age":21.200001},{"Country":"Laos","Avg. age":20.700001},{"Country":"Latvia","Avg. age":28.9},{"Country":"Lebanon","Avg. age":28.299999},{"Country":"Lesotho","Avg. age":22.200001},{"Country":"Liberia","Avg. age":22.6},{"Country":"Liechtenstein","Avg. age":29.9},{"Country":"Lithuania","Avg. age":27.799999},{"Country":"Luxembourg","Avg. age":31.6},{"Country":"Macao","Avg. age":30.299999},{"Country":"Madagascar","Avg. age":19.0},{"Country":"Malawi","Avg. age":19.9},{"Country":"Malaysia","Avg. age":25.700001},{"Country":"Maldives","Avg. age":22.5},{"Country":"Mali","Avg. age":18.799999},{"Country":"Malta","Avg. age":29.200001},{"Country":"Marshall Islands","Avg. age":24.200001},{"Country":"Mauritania","Avg. age":21.799999},{"Country":"Mauritius","Avg. age":23.9},{"Country":"Mayotte","Avg. age":26.1},{"Country":"Mexico","Avg. age":27.5},{"Country":"Micronesia (country)","Avg. age":25.299999},{"Country":"Moldova","Avg. age":21.9},{"Country":"Monaco","Avg. age":30.4},{"Country":"Mongolia","Avg. age":23.0},{"Country":"Montenegro","Avg. age":27.1},{"Country":"Montserrat","Avg. age":31.9},{"Country":"Morocco","Avg. age":24.4},{"Country":"Mozambique","Avg. age":18.9},{"Country":"Myanmar","Avg. age":22.9},{"Country":"Namibia","Avg. age":30.299999},{"Country":"Nauru","Avg. age":20.200001},{"Country":"Nepal","Avg. age":20.1},{"Country":"Netherlands","Avg. age":31.4},{"Country":"Netherlands Antilles","Avg. age":30.200001},{"Country":"New Caledonia","Avg. age":32.799999},{"Country":"New Zealand","Avg. age":29.0},{"Country":"Nicaragua","Avg. age":21.1},{"Country":"Niger","Avg. age":17.200001},{"Country":"Nigeria","Avg. age":21.200001},{"Country":"Niue","Avg. age":24.6},{"Country":"North Korea","Avg. age":25.5},{"Country":"North Macedonia","Avg. age":25.5},{"Country":"Northern Mariana Islands","Avg. age":28.1},{"Country":"Norway","Avg. age":32.299999},{"Country":"Oman","Avg. age":25.6},{"Country":"Pakistan","Avg. age":23.200001},{"Country":"Palau","Avg. age":28.5},{"Country":"Palestine","Avg. age":22.5},{"Country":"Panama","Avg. age":21.6},{"Country":"Papua New Guinea","Avg. age":22.6},{"Country":"Paraguay","Avg. age":22.700001},{"Country":"Peru","Avg. age":23.299999},{"Country":"Philippines","Avg. age":23.4},{"Country":"Poland","Avg. age":27.299999},{"Country":"Portugal","Avg. age":30.700001},{"Country":"Puerto Rico","Avg. age":29.200001},{"Country":"Qatar","Avg. age":25.799999},{"Country":"Reunion","Avg. age":31.0},{"Country":"Romania","Avg. age":27.5},{"Country":"Russia","Avg. age":24.4},{"Country":"Rwanda","Avg. age":24.299999},{"Country":"Saint Vincent and the Grenadines","Avg. age":21.200001},{"Country":"Samoa","Avg. age":23.799999},{"Country":"San Marino","Avg. age":31.299999},{"Country":"Sao Tome and Principe","Avg. age":21.0},{"Country":"Saudi Arabia","Avg. age":26.6},{"Country":"Senegal","Avg. age":22.200001},{"Country":"Serbia","Avg. age":26.6},{"Country":"Seychelles","Avg. age":25.200001},{"Country":"Sierra Leone","Avg. age":23.1},{"Country":"Singapore","Avg. age":27.9},{"Country":"Sint Maarten (Dutch part)","Avg. age":28.0},{"Country":"Slovakia","Avg. age":28.6},{"Country":"Slovenia","Avg. age":30.4},{"Country":"Solomon Islands","Avg. age":23.299999},{"Country":"Somalia","Avg. age":20.4},{"Country":"South Africa","Avg. age":28.0},{"Country":"South Sudan","Avg. age":20.700001},{"Country":"Spain","Avg. age":33.200001},{"Country":"Sri Lanka","Avg. age":23.4},{"Country":"Sudan","Avg. age":21.9},{"Country":"Suriname","Avg. age":22.799999},{"Country":"Sweden","Avg. age":33.799999},{"Country":"Switzerland","Avg. age":30.4},{"Country":"Syria","Avg. age":25.4},{"Country":"Tajikistan","Avg. age":20.700001},{"Country":"Tanzania","Avg. age":21.0},{"Country":"Thailand","Avg. age":24.9},{"Country":"Timor","Avg. age":23.0},{"Country":"Togo","Avg. age":21.299999},{"Country":"Tokelau","Avg. age":27.9},{"Country":"Tonga","Avg. age":25.299999},{"Country":"Trinidad and Tobago","Avg. age":29.200001},{"Country":"Tunisia","Avg. age":28.200001},{"Country":"Turkey","Avg. age":24.799999},{"Country":"Turkmenistan","Avg. age":23.5},{"Country":"Turks and Caicos Islands","Avg. age":25.200001},{"Country":"Tuvalu","Avg. age":20.700001},{"Country":"Uganda","Avg. age":20.700001},{"Country":"Ukraine","Avg. age":23.0},{"Country":"United Arab Emirates","Avg. age":25.299999},{"Country":"United Kingdom","Avg. age":31.200001},{"Country":"United States","Avg. age":27.4},{"Country":"United States Virgin Islands","Avg. age":30.9},{"Country":"Uruguay","Avg. age":24.0},{"Country":"Uzbekistan","Avg. age":22.5},{"Country":"Vanuatu","Avg. age":22.5},{"Country":"Venezuela","Avg. age":22.9},{"Country":"Vietnam","Avg. age":22.799999},{"Country":"Wallis and Futuna","Avg. age":27.799999},{"Country":"Yemen","Avg. age":22.799999},{"Country":"Zambia","Avg. age":21.799999},{"Country":"Zimbabwe","Avg. age":21.1}]
+[
+    {
+        "Country": "Afghanistan",
+        "Avg. age": 21.5
+    },
+    {
+        "Country": "Albania",
+        "Avg. age": 24.200001
+    },
+    {
+        "Country": "Algeria",
+        "Avg. age": 28.200001
+    },
+    {
+        "Country": "Angola",
+        "Avg. age": 21.5
+    },
+    {
+        "Country": "Anguilla",
+        "Avg. age": 28.6
+    },
+    {
+        "Country": "Antigua and Barbuda",
+        "Avg. age": 25.700001
+    },
+    {
+        "Country": "Argentina",
+        "Avg. age": 24.6
+    },
+    {
+        "Country": "Armenia",
+        "Avg. age": 24.200001
+    },
+    {
+        "Country": "Aruba",
+        "Avg. age": 28.5
+    },
+    {
+        "Country": "Australia",
+        "Avg. age": 28.799999
+    },
+    {
+        "Country": "Austria",
+        "Avg. age": 31.5
+    },
+    {
+        "Country": "Azerbaijan",
+        "Avg. age": 24.200001
+    },
+    {
+        "Country": "Bahamas",
+        "Avg. age": 27.9
+    },
+    {
+        "Country": "Bahrain",
+        "Avg. age": 26.9
+    },
+    {
+        "Country": "Bangladesh",
+        "Avg. age": 18.799999
+    },
+    {
+        "Country": "Barbados",
+        "Avg. age": 31.9
+    },
+    {
+        "Country": "Belarus",
+        "Avg. age": 24.6
+    },
+    {
+        "Country": "Belgium",
+        "Avg. age": 31.200001
+    },
+    {
+        "Country": "Belize",
+        "Avg. age": 28.6
+    },
+    {
+        "Country": "Benin",
+        "Avg. age": 20.700001
+    },
+    {
+        "Country": "Bermuda",
+        "Avg. age": 31.9
+    },
+    {
+        "Country": "Bhutan",
+        "Avg. age": 23.799999
+    },
+    {
+        "Country": "Bolivia (Plurinational State of)",
+        "Avg. age": 24.0
+    },
+    {
+        "Country": "Bosnia and Herzegovina",
+        "Avg. age": 25.700001
+    },
+    {
+        "Country": "Botswana",
+        "Avg. age": 24.799999
+    },
+    {
+        "Country": "Brazil",
+        "Avg. age": 23.9
+    },
+    {
+        "Country": "Brunei Darussalam",
+        "Avg. age": 26.1
+    },
+    {
+        "Country": "Bulgaria",
+        "Avg. age": 27.299999
+    },
+    {
+        "Country": "Burkina Faso",
+        "Avg. age": 20.0
+    },
+    {
+        "Country": "Burundi",
+        "Avg. age": 22.799999
+    },
+    {
+        "Country": "Cambodia",
+        "Avg. age": 21.6
+    },
+    {
+        "Country": "Cameroon",
+        "Avg. age": 22.200001
+    },
+    {
+        "Country": "Canada",
+        "Avg. age": 29.1
+    },
+    {
+        "Country": "Cayman Islands",
+        "Avg. age": 28.0
+    },
+    {
+        "Country": "Central African Republic",
+        "Avg. age": 17.299999
+    },
+    {
+        "Country": "Chad",
+        "Avg. age": 18.799999
+    },
+    {
+        "Country": "Channel Islands",
+        "Avg. age": 29.700001
+    },
+    {
+        "Country": "Chile",
+        "Avg. age": 31.5
+    },
+    {
+        "Country": "China",
+        "Avg. age": 25.4
+    },
+    {
+        "Country": "Colombia",
+        "Avg. age": 22.700001
+    },
+    {
+        "Country": "Comoros",
+        "Avg. age": 22.6
+    },
+    {
+        "Country": "Congo",
+        "Avg. age": 21.9
+    },
+    {
+        "Country": "Cook Islands",
+        "Avg. age": 28.0
+    },
+    {
+        "Country": "Costa Rica",
+        "Avg. age": 26.4
+    },
+    {
+        "Country": "Croatia",
+        "Avg. age": 28.200001
+    },
+    {
+        "Country": "Cuba",
+        "Avg. age": 21.299999
+    },
+    {
+        "Country": "Cyprus",
+        "Avg. age": 27.700001
+    },
+    {
+        "Country": "Czechia",
+        "Avg. age": 29.1
+    },
+    {
+        "Country": "C\u00c3\u00b4te d'Ivoire",
+        "Avg. age": 23.0
+    },
+    {
+        "Country": "Democratic People's Republic of Korea",
+        "Avg. age": 25.5
+    },
+    {
+        "Country": "Democratic Republic of the Congo",
+        "Avg. age": 20.9
+    },
+    {
+        "Country": "Denmark",
+        "Avg. age": 32.400002
+    },
+    {
+        "Country": "Djibouti",
+        "Avg. age": 29.9
+    },
+    {
+        "Country": "Dominica",
+        "Avg. age": 32.5
+    },
+    {
+        "Country": "Dominican Republic",
+        "Avg. age": 21.5
+    },
+    {
+        "Country": "Ecuador",
+        "Avg. age": 22.200001
+    },
+    {
+        "Country": "Egypt",
+        "Avg. age": 22.0
+    },
+    {
+        "Country": "El Salvador",
+        "Avg. age": 22.6
+    },
+    {
+        "Country": "Equatorial Guinea",
+        "Avg. age": 20.5
+    },
+    {
+        "Country": "Eritrea",
+        "Avg. age": 20.6
+    },
+    {
+        "Country": "Estonia",
+        "Avg. age": 29.700001
+    },
+    {
+        "Country": "Eswatini",
+        "Avg. age": 26.5
+    },
+    {
+        "Country": "Ethiopia",
+        "Avg. age": 21.299999
+    },
+    {
+        "Country": "Faeroe Islands",
+        "Avg. age": 31.0
+    },
+    {
+        "Country": "Falkland Islands",
+        "Avg. age": 29.0
+    },
+    {
+        "Country": "Fiji",
+        "Avg. age": 24.1
+    },
+    {
+        "Country": "Finland",
+        "Avg. age": 31.6
+    },
+    {
+        "Country": "France",
+        "Avg. age": 32.200001
+    },
+    {
+        "Country": "French Guiana",
+        "Avg. age": 32.0
+    },
+    {
+        "Country": "French Polynesia",
+        "Avg. age": 33.799999
+    },
+    {
+        "Country": "Gabon",
+        "Avg. age": 22.9
+    },
+    {
+        "Country": "Gambia",
+        "Avg. age": 21.5
+    },
+    {
+        "Country": "Georgia",
+        "Avg. age": 22.799999
+    },
+    {
+        "Country": "Germany",
+        "Avg. age": 31.200001
+    },
+    {
+        "Country": "Ghana",
+        "Avg. age": 23.700001
+    },
+    {
+        "Country": "Gibraltar",
+        "Avg. age": 29.1
+    },
+    {
+        "Country": "Greece",
+        "Avg. age": 30.299999
+    },
+    {
+        "Country": "Greenland",
+        "Avg. age": 32.900002
+    },
+    {
+        "Country": "Guatemala",
+        "Avg. age": 22.200001
+    },
+    {
+        "Country": "Guinea",
+        "Avg. age": 20.6
+    },
+    {
+        "Country": "Guinea-Bissau",
+        "Avg. age": 24.1
+    },
+    {
+        "Country": "Guyana",
+        "Avg. age": 19.200001
+    },
+    {
+        "Country": "Haiti",
+        "Avg. age": 24.9
+    },
+    {
+        "Country": "Honduras",
+        "Avg. age": 21.200001
+    },
+    {
+        "Country": "Hong Kong",
+        "Avg. age": 29.9
+    },
+    {
+        "Country": "Hungary",
+        "Avg. age": 29.4
+    },
+    {
+        "Country": "Iceland",
+        "Avg. age": 32.400002
+    },
+    {
+        "Country": "India",
+        "Avg. age": 21.4
+    },
+    {
+        "Country": "Indonesia",
+        "Avg. age": 22.4
+    },
+    {
+        "Country": "Iran (Islamic Republic of)",
+        "Avg. age": 23.1
+    },
+    {
+        "Country": "Iraq",
+        "Avg. age": 22.700001
+    },
+    {
+        "Country": "Ireland",
+        "Avg. age": 32.0
+    },
+    {
+        "Country": "Isle of Man",
+        "Avg. age": 30.700001
+    },
+    {
+        "Country": "Israel",
+        "Avg. age": 25.1
+    },
+    {
+        "Country": "Italy",
+        "Avg. age": 32.200001
+    },
+    {
+        "Country": "Japan",
+        "Avg. age": 29.4
+    },
+    {
+        "Country": "Jordan",
+        "Avg. age": 24.6
+    },
+    {
+        "Country": "Kazakhstan",
+        "Avg. age": 22.4
+    },
+    {
+        "Country": "Kenya",
+        "Avg. age": 21.9
+    },
+    {
+        "Country": "Kiribati",
+        "Avg. age": 21.6
+    },
+    {
+        "Country": "Kosovo",
+        "Avg. age": 25.200001
+    },
+    {
+        "Country": "Kuwait",
+        "Avg. age": 25.700001
+    },
+    {
+        "Country": "Kyrgyzstan",
+        "Avg. age": 21.200001
+    },
+    {
+        "Country": "Lao People's Democratic Republic",
+        "Avg. age": 20.700001
+    },
+    {
+        "Country": "Latvia",
+        "Avg. age": 28.9
+    },
+    {
+        "Country": "Lebanon",
+        "Avg. age": 28.299999
+    },
+    {
+        "Country": "Lesotho",
+        "Avg. age": 22.200001
+    },
+    {
+        "Country": "Liberia",
+        "Avg. age": 22.6
+    },
+    {
+        "Country": "Liechtenstein",
+        "Avg. age": 29.9
+    },
+    {
+        "Country": "Lithuania",
+        "Avg. age": 27.799999
+    },
+    {
+        "Country": "Luxembourg",
+        "Avg. age": 31.6
+    },
+    {
+        "Country": "Macao",
+        "Avg. age": 30.299999
+    },
+    {
+        "Country": "Madagascar",
+        "Avg. age": 19.0
+    },
+    {
+        "Country": "Malawi",
+        "Avg. age": 19.9
+    },
+    {
+        "Country": "Malaysia",
+        "Avg. age": 25.700001
+    },
+    {
+        "Country": "Maldives",
+        "Avg. age": 22.5
+    },
+    {
+        "Country": "Mali",
+        "Avg. age": 18.799999
+    },
+    {
+        "Country": "Malta",
+        "Avg. age": 29.200001
+    },
+    {
+        "Country": "Marshall Islands",
+        "Avg. age": 24.200001
+    },
+    {
+        "Country": "Mauritania",
+        "Avg. age": 21.799999
+    },
+    {
+        "Country": "Mauritius",
+        "Avg. age": 23.9
+    },
+    {
+        "Country": "Mayotte",
+        "Avg. age": 26.1
+    },
+    {
+        "Country": "Mexico",
+        "Avg. age": 27.5
+    },
+    {
+        "Country": "Micronesia (Federated States of)",
+        "Avg. age": 25.299999
+    },
+    {
+        "Country": "Monaco",
+        "Avg. age": 30.4
+    },
+    {
+        "Country": "Mongolia",
+        "Avg. age": 23.0
+    },
+    {
+        "Country": "Montenegro",
+        "Avg. age": 27.1
+    },
+    {
+        "Country": "Montserrat",
+        "Avg. age": 31.9
+    },
+    {
+        "Country": "Morocco",
+        "Avg. age": 24.4
+    },
+    {
+        "Country": "Mozambique",
+        "Avg. age": 18.9
+    },
+    {
+        "Country": "Myanmar",
+        "Avg. age": 22.9
+    },
+    {
+        "Country": "Namibia",
+        "Avg. age": 30.299999
+    },
+    {
+        "Country": "Nauru",
+        "Avg. age": 20.200001
+    },
+    {
+        "Country": "Nepal",
+        "Avg. age": 20.1
+    },
+    {
+        "Country": "Netherlands",
+        "Avg. age": 31.4
+    },
+    {
+        "Country": "Netherlands Antilles",
+        "Avg. age": 30.200001
+    },
+    {
+        "Country": "New Caledonia",
+        "Avg. age": 32.799999
+    },
+    {
+        "Country": "New Zealand",
+        "Avg. age": 29.0
+    },
+    {
+        "Country": "Nicaragua",
+        "Avg. age": 21.1
+    },
+    {
+        "Country": "Niger",
+        "Avg. age": 17.200001
+    },
+    {
+        "Country": "Nigeria",
+        "Avg. age": 21.200001
+    },
+    {
+        "Country": "Niue",
+        "Avg. age": 24.6
+    },
+    {
+        "Country": "North Macedonia",
+        "Avg. age": 25.5
+    },
+    {
+        "Country": "Northern Mariana Islands",
+        "Avg. age": 28.1
+    },
+    {
+        "Country": "Norway",
+        "Avg. age": 32.299999
+    },
+    {
+        "Country": "Oman",
+        "Avg. age": 25.6
+    },
+    {
+        "Country": "Pakistan",
+        "Avg. age": 23.200001
+    },
+    {
+        "Country": "Palau",
+        "Avg. age": 28.5
+    },
+    {
+        "Country": "Palestine",
+        "Avg. age": 22.5
+    },
+    {
+        "Country": "Panama",
+        "Avg. age": 21.6
+    },
+    {
+        "Country": "Papua New Guinea",
+        "Avg. age": 22.6
+    },
+    {
+        "Country": "Paraguay",
+        "Avg. age": 22.700001
+    },
+    {
+        "Country": "Peru",
+        "Avg. age": 23.299999
+    },
+    {
+        "Country": "Philippines",
+        "Avg. age": 23.4
+    },
+    {
+        "Country": "Poland",
+        "Avg. age": 27.299999
+    },
+    {
+        "Country": "Portugal",
+        "Avg. age": 30.700001
+    },
+    {
+        "Country": "Puerto Rico",
+        "Avg. age": 29.200001
+    },
+    {
+        "Country": "Qatar",
+        "Avg. age": 25.799999
+    },
+    {
+        "Country": "Republic of Korea",
+        "Avg. age": 30.200001
+    },
+    {
+        "Country": "Republic of Moldova",
+        "Avg. age": 21.9
+    },
+    {
+        "Country": "Reunion",
+        "Avg. age": 31.0
+    },
+    {
+        "Country": "Romania",
+        "Avg. age": 27.5
+    },
+    {
+        "Country": "Russian Federation",
+        "Avg. age": 24.4
+    },
+    {
+        "Country": "Rwanda",
+        "Avg. age": 24.299999
+    },
+    {
+        "Country": "Saint Vincent and the Grenadines",
+        "Avg. age": 21.200001
+    },
+    {
+        "Country": "Samoa",
+        "Avg. age": 23.799999
+    },
+    {
+        "Country": "San Marino",
+        "Avg. age": 31.299999
+    },
+    {
+        "Country": "Sao Tome and Principe",
+        "Avg. age": 21.0
+    },
+    {
+        "Country": "Saudi Arabia",
+        "Avg. age": 26.6
+    },
+    {
+        "Country": "Senegal",
+        "Avg. age": 22.200001
+    },
+    {
+        "Country": "Serbia",
+        "Avg. age": 26.6
+    },
+    {
+        "Country": "Seychelles",
+        "Avg. age": 25.200001
+    },
+    {
+        "Country": "Sierra Leone",
+        "Avg. age": 23.1
+    },
+    {
+        "Country": "Singapore",
+        "Avg. age": 27.9
+    },
+    {
+        "Country": "Sint Maarten (Dutch part)",
+        "Avg. age": 28.0
+    },
+    {
+        "Country": "Slovakia",
+        "Avg. age": 28.6
+    },
+    {
+        "Country": "Slovenia",
+        "Avg. age": 30.4
+    },
+    {
+        "Country": "Solomon Islands",
+        "Avg. age": 23.299999
+    },
+    {
+        "Country": "Somalia",
+        "Avg. age": 20.4
+    },
+    {
+        "Country": "South Africa",
+        "Avg. age": 28.0
+    },
+    {
+        "Country": "South Sudan",
+        "Avg. age": 20.700001
+    },
+    {
+        "Country": "Spain",
+        "Avg. age": 33.200001
+    },
+    {
+        "Country": "Sri Lanka",
+        "Avg. age": 23.4
+    },
+    {
+        "Country": "Sudan",
+        "Avg. age": 21.9
+    },
+    {
+        "Country": "Suriname",
+        "Avg. age": 22.799999
+    },
+    {
+        "Country": "Sweden",
+        "Avg. age": 33.799999
+    },
+    {
+        "Country": "Switzerland",
+        "Avg. age": 30.4
+    },
+    {
+        "Country": "Syrian Arab Republic",
+        "Avg. age": 25.4
+    },
+    {
+        "Country": "Tajikistan",
+        "Avg. age": 20.700001
+    },
+    {
+        "Country": "Thailand",
+        "Avg. age": 24.9
+    },
+    {
+        "Country": "Timor-Leste",
+        "Avg. age": 23.0
+    },
+    {
+        "Country": "Togo",
+        "Avg. age": 21.299999
+    },
+    {
+        "Country": "Tokelau",
+        "Avg. age": 27.9
+    },
+    {
+        "Country": "Tonga",
+        "Avg. age": 25.299999
+    },
+    {
+        "Country": "Trinidad and Tobago",
+        "Avg. age": 29.200001
+    },
+    {
+        "Country": "Tunisia",
+        "Avg. age": 28.200001
+    },
+    {
+        "Country": "Turkmenistan",
+        "Avg. age": 23.5
+    },
+    {
+        "Country": "Turks and Caicos Islands",
+        "Avg. age": 25.200001
+    },
+    {
+        "Country": "Tuvalu",
+        "Avg. age": 20.700001
+    },
+    {
+        "Country": "T\u00c3\u00bcrkiye",
+        "Avg. age": 24.799999
+    },
+    {
+        "Country": "Uganda",
+        "Avg. age": 20.700001
+    },
+    {
+        "Country": "Ukraine",
+        "Avg. age": 23.0
+    },
+    {
+        "Country": "United Arab Emirates",
+        "Avg. age": 25.299999
+    },
+    {
+        "Country": "United Kingdom",
+        "Avg. age": 31.200001
+    },
+    {
+        "Country": "United Republic of Tanzania",
+        "Avg. age": 21.0
+    },
+    {
+        "Country": "United States of America",
+        "Avg. age": 27.4
+    },
+    {
+        "Country": "United States of America Virgin Islands",
+        "Avg. age": 30.9
+    },
+    {
+        "Country": "Uruguay",
+        "Avg. age": 24.0
+    },
+    {
+        "Country": "Uzbekistan",
+        "Avg. age": 22.5
+    },
+    {
+        "Country": "Vanuatu",
+        "Avg. age": 22.5
+    },
+    {
+        "Country": "Venezuela (Bolivarian Republic of)",
+        "Avg. age": 22.9
+    },
+    {
+        "Country": "Viet Nam",
+        "Avg. age": 22.799999
+    },
+    {
+        "Country": "Wallis and Futuna",
+        "Avg. age": 27.799999
+    },
+    {
+        "Country": "Yemen",
+        "Avg. age": 22.799999
+    },
+    {
+        "Country": "Zambia",
+        "Avg. age": 21.799999
+    },
+    {
+        "Country": "Zimbabwe",
+        "Avg. age": 21.1
+    }
+]

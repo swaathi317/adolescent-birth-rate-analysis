@@ -154,14 +154,14 @@ Bermuda,BMU,2010,30.6
 Bermuda,BMU,2016,31.9
 Bhutan,BTN,2005,21.799999
 Bhutan,BTN,2017,23.799999
-Bolivia,BOL,1988,22.200001
-Bolivia,BOL,1989,22.200001
-Bolivia,BOL,1993,22
-Bolivia,BOL,1998,22.799999
-Bolivia,BOL,2000,22.4
-Bolivia,BOL,2003,22.6
-Bolivia,BOL,2008,22.700001
-Bolivia,BOL,2016,24
+Bolivia (Plurinational State of),BOL,1988,22.200001
+Bolivia (Plurinational State of),BOL,1989,22.200001
+Bolivia (Plurinational State of),BOL,1993,22
+Bolivia (Plurinational State of),BOL,1998,22.799999
+Bolivia (Plurinational State of),BOL,2000,22.4
+Bolivia (Plurinational State of),BOL,2003,22.6
+Bolivia (Plurinational State of),BOL,2008,22.700001
+Bolivia (Plurinational State of),BOL,2016,24
 Bosnia and Herzegovina,BIH,2000,23.6
 Bosnia and Herzegovina,BIH,2006,24.5
 Bosnia and Herzegovina,BIH,2011,25.700001
@@ -178,10 +178,10 @@ Brazil,BRA,2010,23.9
 British Virgin Islands,VGB,1970,24.299999
 British Virgin Islands,VGB,1980,26.4
 British Virgin Islands,VGB,1991,28.4
-Brunei,BRN,1971,22.4
-Brunei,BRN,1981,23.6
-Brunei,BRN,1991,25.1
-Brunei,BRN,2011,26.1
+Brunei Darussalam,BRN,1971,22.4
+Brunei Darussalam,BRN,1981,23.6
+Brunei Darussalam,BRN,1991,25.1
+Brunei Darussalam,BRN,2011,26.1
 Bulgaria,BGR,1990,21.5
 Bulgaria,BGR,1991,21.5
 Bulgaria,BGR,1992,21.700001
@@ -333,13 +333,13 @@ Costa Rica,CRI,2015,24.9
 Costa Rica,CRI,2016,25.299999
 Costa Rica,CRI,2017,25.9
 Costa Rica,CRI,2018,26.4
-Cote d'Ivoire,CIV,1994,20.9
-Cote d'Ivoire,CIV,1998,21.9
-Cote d'Ivoire,CIV,2000,22.799999
-Cote d'Ivoire,CIV,2005,21.700001
-Cote d'Ivoire,CIV,2006,19.700001
-Cote d'Ivoire,CIV,2011,22.299999
-Cote d'Ivoire,CIV,2016,23
+Côte d'Ivoire,CIV,1994,20.9
+Côte d'Ivoire,CIV,1998,21.9
+Côte d'Ivoire,CIV,2000,22.799999
+Côte d'Ivoire,CIV,2005,21.700001
+Côte d'Ivoire,CIV,2006,19.700001
+Côte d'Ivoire,CIV,2011,22.299999
+Côte d'Ivoire,CIV,2016,23
 Croatia,HRV,2001,25.4
 Croatia,HRV,2002,25.6
 Croatia,HRV,2003,25.799999
@@ -406,11 +406,11 @@ Czechia,CZE,2014,28.700001
 Czechia,CZE,2015,28.799999
 Czechia,CZE,2016,29
 Czechia,CZE,2017,29.1
-Democratic Republic of Congo,COD,1991,19.700001
-Democratic Republic of Congo,COD,2001,21
-Democratic Republic of Congo,COD,2007,20.799999
-Democratic Republic of Congo,COD,2010,20.200001
-Democratic Republic of Congo,COD,2013,20.9
+Democratic Republic of the Congo,COD,1991,19.700001
+Democratic Republic of the Congo,COD,2001,21
+Democratic Republic of the Congo,COD,2007,20.799999
+Democratic Republic of the Congo,COD,2010,20.200001
+Democratic Republic of the Congo,COD,2013,20.9
 Denmark,DNK,1990,27.799999
 Denmark,DNK,1991,28
 Denmark,DNK,1992,28.299999
@@ -795,13 +795,13 @@ Indonesia,IDN,2005,23.4
 Indonesia,IDN,2007,22.299999
 Indonesia,IDN,2012,21.799999
 Indonesia,IDN,2017,22.4
-Iran,IRN,1976,19.700001
-Iran,IRN,1986,20.200001
-Iran,IRN,1991,21.1
-Iran,IRN,1996,22.1
-Iran,IRN,2006,23.5
-Iran,IRN,2011,23.5
-Iran,IRN,2016,23.1
+Iran (Islamic Republic of),IRN,1976,19.700001
+Iran (Islamic Republic of),IRN,1986,20.200001
+Iran (Islamic Republic of),IRN,1991,21.1
+Iran (Islamic Republic of),IRN,1996,22.1
+Iran (Islamic Republic of),IRN,2006,23.5
+Iran (Islamic Republic of),IRN,2011,23.5
+Iran (Islamic Republic of),IRN,2016,23.1
 Iraq,IRQ,2000,25.299999
 Iraq,IRQ,2004,25.299999
 Iraq,IRQ,2006,22.799999
@@ -928,34 +928,34 @@ Kiribati,KIR,1990,21.5
 Kiribati,KIR,1995,21.700001
 Kiribati,KIR,2005,22.200001
 Kiribati,KIR,2010,21.6
-Korea,,1990,24.799999
-Korea,,1991,24.799999
-Korea,,1992,24.9
-Korea,,1993,25
-Korea,,1994,25.1
-Korea,,1995,25.299999
-Korea,,1996,25.5
-Korea,,1997,25.700001
-Korea,,1998,26
-Korea,,1999,26.299999
-Korea,,2000,26.5
-Korea,,2001,26.799999
-Korea,,2002,27
-Korea,,2003,27.299999
-Korea,,2004,27.5
-Korea,,2005,27.700001
-Korea,,2006,27.799999
-Korea,,2007,28.1
-Korea,,2008,28.299999
-Korea,,2009,28.700001
-Korea,,2010,28.9
-Korea,,2011,29.1
-Korea,,2012,29.4
-Korea,,2013,29.6
-Korea,,2014,29.799999
-Korea,,2015,30
-Korea,,2016,30.1
-Korea,,2017,30.200001
+Republic of Korea,,1990,24.799999
+Republic of Korea,,1991,24.799999
+Republic of Korea,,1992,24.9
+Republic of Korea,,1993,25
+Republic of Korea,,1994,25.1
+Republic of Korea,,1995,25.299999
+Republic of Korea,,1996,25.5
+Republic of Korea,,1997,25.700001
+Republic of Korea,,1998,26
+Republic of Korea,,1999,26.299999
+Republic of Korea,,2000,26.5
+Republic of Korea,,2001,26.799999
+Republic of Korea,,2002,27
+Republic of Korea,,2003,27.299999
+Republic of Korea,,2004,27.5
+Republic of Korea,,2005,27.700001
+Republic of Korea,,2006,27.799999
+Republic of Korea,,2007,28.1
+Republic of Korea,,2008,28.299999
+Republic of Korea,,2009,28.700001
+Republic of Korea,,2010,28.9
+Republic of Korea,,2011,29.1
+Republic of Korea,,2012,29.4
+Republic of Korea,,2013,29.6
+Republic of Korea,,2014,29.799999
+Republic of Korea,,2015,30
+Republic of Korea,,2016,30.1
+Republic of Korea,,2017,30.200001
 Kosovo,OWID_KOS,2011,25.200001
 Kuwait,KWT,1970,19.6
 Kuwait,KWT,1975,20.5
@@ -968,10 +968,10 @@ Kyrgyzstan,KGZ,1997,20.299999
 Kyrgyzstan,KGZ,2005,22.5
 Kyrgyzstan,KGZ,2012,21.799999
 Kyrgyzstan,KGZ,2014,21.200001
-Laos,LAO,2000,20.5
-Laos,LAO,2005,20.5
-Laos,LAO,2011,20.5
-Laos,LAO,2017,20.700001
+Lao People's Democratic Republic,LAO,2000,20.5
+Lao People's Democratic Republic,LAO,2005,20.5
+Lao People's Democratic Republic,LAO,2011,20.5
+Lao People's Democratic Republic,LAO,2017,20.700001
 Latvia,LVA,2002,25
 Latvia,LVA,2003,25.1
 Latvia,LVA,2004,25.299999
@@ -1156,13 +1156,13 @@ Mexico,MEX,2011,26.299999
 Mexico,MEX,2012,26.6
 Mexico,MEX,2013,26.9
 Mexico,MEX,2014,27.5
-Micronesia (country),FSM,1985,22.6
-Micronesia (country),FSM,1986,24.200001
-Micronesia (country),FSM,2010,25.299999
-Moldova,MDA,1997,20.799999
-Moldova,MDA,2000,21.9
-Moldova,MDA,2005,21.9
-Moldova,MDA,2012,21.9
+Micronesia (Federated States of),FSM,1985,22.6
+Micronesia (Federated States of),FSM,1986,24.200001
+Micronesia (Federated States of),FSM,2010,25.299999
+Republic of Moldova,MDA,1997,20.799999
+Republic of Moldova,MDA,2000,21.9
+Republic of Moldova,MDA,2005,21.9
+Republic of Moldova,MDA,2012,21.9
 Monaco,MCO,1975,24.799999
 Monaco,MCO,1982,26.200001
 Monaco,MCO,2000,29.200001
@@ -1298,7 +1298,7 @@ Niue,NIU,1976,25
 Niue,NIU,1986,23.6
 Niue,NIU,2006,26.1
 Niue,NIU,2011,24.6
-North Korea,PRK,2008,25.5
+Democratic People's Republic of Korea,PRK,2008,25.5
 North Macedonia,MKD,1994,22.9
 North Macedonia,MKD,2011,25.5
 Northern Mariana Islands,MNP,1990,28.5
@@ -1468,8 +1468,8 @@ Romania,ROU,2014,26.700001
 Romania,ROU,2015,26.799999
 Romania,ROU,2016,27
 Romania,ROU,2017,27.5
-Russia,RUS,1989,21.799999
-Russia,RUS,2010,24.4
+Russian Federation,RUS,1989,21.799999
+Russian Federation,RUS,2010,24.4
 Rwanda,RWA,1970,20.1
 Rwanda,RWA,1981,21.5
 Rwanda,RWA,1983,21.1
@@ -1731,9 +1731,9 @@ Switzerland,CHE,2014,30.1
 Switzerland,CHE,2015,30.200001
 Switzerland,CHE,2016,30.4
 Switzerland,CHE,2017,30.4
-Syria,SYR,1978,22.200001
-Syria,SYR,2001,25.4
-Syria,SYR,2006,25.4
+Syrian Arab Republic,SYR,1978,22.200001
+Syrian Arab Republic,SYR,2001,25.4
+Syrian Arab Republic,SYR,2006,25.4
 Taiwan,TWN,1980,23.799999
 Taiwan,TWN,1990,25.9
 Taiwan,TWN,2000,27.6
@@ -1741,25 +1741,25 @@ Tajikistan,TJK,2000,21.4
 Tajikistan,TJK,2005,22.9
 Tajikistan,TJK,2012,21.9
 Tajikistan,TJK,2017,20.700001
-Tanzania,TZA,1973,18.5
-Tanzania,TZA,1991,20.5
-Tanzania,TZA,1994,20.5
-Tanzania,TZA,1996,20.5
-Tanzania,TZA,1999,20.4
-Tanzania,TZA,2003,20.700001
-Tanzania,TZA,2004,20
-Tanzania,TZA,2007,20.299999
-Tanzania,TZA,2009,21
-Tanzania,TZA,2011,20.9
-Tanzania,TZA,2015,21
+United Republic of Tanzania,TZA,1973,18.5
+United Republic of Tanzania,TZA,1991,20.5
+United Republic of Tanzania,TZA,1994,20.5
+United Republic of Tanzania,TZA,1996,20.5
+United Republic of Tanzania,TZA,1999,20.4
+United Republic of Tanzania,TZA,2003,20.700001
+United Republic of Tanzania,TZA,2004,20
+United Republic of Tanzania,TZA,2007,20.299999
+United Republic of Tanzania,TZA,2009,21
+United Republic of Tanzania,TZA,2011,20.9
+United Republic of Tanzania,TZA,2015,21
 Thailand,THA,1970,22
 Thailand,THA,1980,22.799999
 Thailand,THA,1990,23.5
 Thailand,THA,2000,24.1
 Thailand,THA,2010,24.9
-Timor,TLS,2003,21.799999
-Timor,TLS,2009,23.1
-Timor,TLS,2016,23
+Timor-Leste,TLS,2003,21.799999
+Timor-Leste,TLS,2009,23.1
+Timor-Leste,TLS,2016,23
 Togo,TGO,1988,20.299999
 Togo,TGO,1998,21.4
 Togo,TGO,2000,21.1
@@ -1787,18 +1787,18 @@ Tunisia,TUN,1984,24.299999
 Tunisia,TUN,1994,26.6
 Tunisia,TUN,2004,28.700001
 Tunisia,TUN,2014,28.200001
-Turkey,TUR,2003,24.1
-Turkey,TUR,2006,23.5
-Turkey,TUR,2007,23.5
-Turkey,TUR,2008,23.6
-Turkey,TUR,2009,23.700001
-Turkey,TUR,2010,23.799999
-Turkey,TUR,2011,23.9
-Turkey,TUR,2013,24.200001
-Turkey,TUR,2014,24.299999
-Turkey,TUR,2015,24.5
-Turkey,TUR,2016,24.700001
-Turkey,TUR,2017,24.799999
+Türkiye,TUR,2003,24.1
+Türkiye,TUR,2006,23.5
+Türkiye,TUR,2007,23.5
+Türkiye,TUR,2008,23.6
+Türkiye,TUR,2009,23.700001
+Türkiye,TUR,2010,23.799999
+Türkiye,TUR,2011,23.9
+Türkiye,TUR,2013,24.200001
+Türkiye,TUR,2014,24.299999
+Türkiye,TUR,2015,24.5
+Türkiye,TUR,2016,24.700001
+Türkiye,TUR,2017,24.799999
 Turkmenistan,TKM,2000,23.4
 Turkmenistan,TKM,2006,24.799999
 Turkmenistan,TKM,2015,23.5
@@ -1847,36 +1847,36 @@ United Kingdom,GBR,2012,30.299999
 United Kingdom,GBR,2013,30.6
 United Kingdom,GBR,2014,30.799999
 United Kingdom,GBR,2015,31.200001
-United States,USA,1990,23.9
-United States,USA,1991,24.1
-United States,USA,1992,24.4
-United States,USA,1993,24.5
-United States,USA,1994,24.5
-United States,USA,1995,24.5
-United States,USA,1996,24.799999
-United States,USA,1997,25
-United States,USA,1998,25
-United States,USA,1999,25.1
-United States,USA,2000,25.1
-United States,USA,2001,25.1
-United States,USA,2002,25.299999
-United States,USA,2003,25.299999
-United States,USA,2004,25.299999
-United States,USA,2005,25.299999
-United States,USA,2006,25.5
-United States,USA,2007,25.6
-United States,USA,2008,25.9
-United States,USA,2009,25.9
-United States,USA,2010,26.1
-United States,USA,2011,26.4
-United States,USA,2012,26.6
-United States,USA,2013,26.6
-United States,USA,2014,27
-United States,USA,2015,27.1
-United States,USA,2016,27.4
-United States,USA,2017,27.4
-United States Virgin Islands,VIR,1990,27.5
-United States Virgin Islands,VIR,2010,30.9
+United States of America,USA,1990,23.9
+United States of America,USA,1991,24.1
+United States of America,USA,1992,24.4
+United States of America,USA,1993,24.5
+United States of America,USA,1994,24.5
+United States of America,USA,1995,24.5
+United States of America,USA,1996,24.799999
+United States of America,USA,1997,25
+United States of America,USA,1998,25
+United States of America,USA,1999,25.1
+United States of America,USA,2000,25.1
+United States of America,USA,2001,25.1
+United States of America,USA,2002,25.299999
+United States of America,USA,2003,25.299999
+United States of America,USA,2004,25.299999
+United States of America,USA,2005,25.299999
+United States of America,USA,2006,25.5
+United States of America,USA,2007,25.6
+United States of America,USA,2008,25.9
+United States of America,USA,2009,25.9
+United States of America,USA,2010,26.1
+United States of America,USA,2011,26.4
+United States of America,USA,2012,26.6
+United States of America,USA,2013,26.6
+United States of America,USA,2014,27
+United States of America,USA,2015,27.1
+United States of America,USA,2016,27.4
+United States of America,USA,2017,27.4
+United States of America Virgin Islands,VIR,1990,27.5
+United States of America Virgin Islands,VIR,2010,30.9
 Uruguay,URY,1975,22.5
 Uruguay,URY,1985,22.9
 Uruguay,URY,1996,23.299999
@@ -1889,22 +1889,22 @@ Vanuatu,VUT,1979,22
 Vanuatu,VUT,1989,22.6
 Vanuatu,VUT,1999,23
 Vanuatu,VUT,2009,22.5
-Venezuela,VEN,1971,20.1
-Venezuela,VEN,1981,21.299999
-Venezuela,VEN,1990,22.1
-Venezuela,VEN,2001,22.700001
-Venezuela,VEN,2011,22.9
-Vietnam,VNM,1988,23.6
-Vietnam,VNM,1997,22.200001
-Vietnam,VNM,2000,22.9
-Vietnam,VNM,2002,23.200001
-Vietnam,VNM,2005,23.200001
-Vietnam,VNM,2006,22.799999
-Vietnam,VNM,2007,23.299999
-Vietnam,VNM,2010,22.299999
-Vietnam,VNM,2011,22.799999
-Vietnam,VNM,2013,22.4
-Vietnam,VNM,2015,22.799999
+Venezuela (Bolivarian Republic of),VEN,1971,20.1
+Venezuela (Bolivarian Republic of),VEN,1981,21.299999
+Venezuela (Bolivarian Republic of),VEN,1990,22.1
+Venezuela (Bolivarian Republic of),VEN,2001,22.700001
+Venezuela (Bolivarian Republic of),VEN,2011,22.9
+Viet Nam,VNM,1988,23.6
+Viet Nam,VNM,1997,22.200001
+Viet Nam,VNM,2000,22.9
+Viet Nam,VNM,2002,23.200001
+Viet Nam,VNM,2005,23.200001
+Viet Nam,VNM,2006,22.799999
+Viet Nam,VNM,2007,23.299999
+Viet Nam,VNM,2010,22.299999
+Viet Nam,VNM,2011,22.799999
+Viet Nam,VNM,2013,22.4
+Viet Nam,VNM,2015,22.799999
 Wallis and Futuna,WLF,1976,25.1
 Wallis and Futuna,WLF,1983,22.9
 Wallis and Futuna,WLF,1990,23.4
