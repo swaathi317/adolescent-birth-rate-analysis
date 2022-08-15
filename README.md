@@ -71,7 +71,7 @@ In order to visualize the data as plots, Matplotlib and Seaborn libraries were u
 
 ### The trend of ABRs among the geographical regions:
    
-   ![Trend of ABRs among the geographical regions](results/1_abr_regions.png)
+   ![Trend of ABRs among the geographical regions](Images/1_abr_regions.png)
    
   * All the regions have a decreasing trend in their ABRs over the period of 20 years.
   * The highest decrease in ABR is seen in Africa. 
@@ -80,14 +80,14 @@ In order to visualize the data as plots, Matplotlib and Seaborn libraries were u
 #### Country with the highest ABR and its trend over the years
   Niger had the highest birth rate in 2007 and the highest average ABR of 187. 
   
-![ABR of Niger](results/2_abr_trend.png) 
+![ABR of Niger](Images/2_abr_trend.png) 
           
   Over the years, there seems to be a declining trend in the ABR of Niger.
 
 #### Country with the lowest ABR and its trend over the years
   Republic of Korea i.e. South Korea has the lowest ABR among the considered countries.
   
-![ABR of South Korea](results/3_sk_trend.png) 
+![ABR of South Korea](Images/3_sk_trend.png) 
           
   The adolescent birth rates of Republic of Korea has fluctuated. But ultimately, there has been a decreasing trend over 20 years.
 
@@ -102,25 +102,25 @@ HDI rank                                                     -0.990271
 Avg. Birth rate                                              -0.814447   
 
 
-![Correlation between HDI and ABR](results/4_hdr_br.png) 
+![Correlation between HDI and ABR](Images/4_hdr_br.png) 
            
    Negative correlation: With the increase in HDI, the average adolescent birth rates seem to decrease. Hence, countries with higher HDI are likely to have lower adolescent birth rates.
    
   #### Correlation between HDI rank and average ABR:   
 
-![Correlation between HDI and ABR](results/5_crr_hdr.png) 
+![Correlation between HDI and ABR](Images/5_crr_hdr.png) 
             
    Positive Correlation: Lower HDI ranks have higher numerical values and vice-versa. The countries with top ranks i.e. lower numerical values have lower adolescent birth rates. Similarly, the countries with lowest ranks (higher numerical values) have higher adolescent birth rates.
    
   #### Correlation between expected years of schooling and average adolescent birth rate:
 
-![Correlation between schooling and ABR](results/6_sch_crr.png)
+![Correlation between schooling and ABR](Images/6_sch_crr.png)
                     
    Negative correlation: Indicates that with the increase in expected years of schooling, the average adolescent birth rate for a country tends to decrease.
    
   #### Correlation between gross national income (GNI) and average ABR:
   
-![Correlation between gross national income (GNI) and average ABR](results/7_gni_crr.png) 
+![Correlation between gross national income (GNI) and average ABR](Images/7_gni_crr.png) 
 
    Negative correlation: Higher the per capita Gross National Income for a country, the lower is its adolescent birth rate.
    
@@ -129,7 +129,7 @@ Avg. Birth rate                                              -0.814447
   * The average marriage ages of different countries were considered. The maximum and minimum average marriage ages were 33 and 17, respectively. 
   * The mean age of marriage is 24. There seems to be no country with an average marriage age less than 16, indicating that child marriages are not the norm anywhere.
 
-![Correlation between Avg. Marriage age and average ABR](results/8_mrg_br.png) 
+![Correlation between Avg. Marriage age and average ABR](Images/8_mrg_br.png) 
            
    Negative correlation: The higher the average marriage age in a country, the lower is its average adolescent birth rate. Indicates that as people tend to marry later, adolescent births are low in a country.
    
@@ -149,7 +149,7 @@ Varies by state                                 1
     * 25 out of 191 countries have banned abortion altogether.
   * There are 31 countries with birth rate above 100 that have restrictions in their abortion laws and their distribution is below:
 
-![Abortion distribution](results/9_abr_law.png)
+![Abortion distribution](Images/9_abr_law.png)
           
   * The countries with ABR above 100 contribute to 23% of the countries with abortion restrictions.
   * There are 17 countries with birth rate under 10 that have no restrictions in their abortion laws.
@@ -158,7 +158,7 @@ Varies by state                                 1
 
 ### Comparison between Avg. marriage age and adolescent birth rate (based on Abortion legality)
 
-![Avg. marriage age and adolescent birth rate](results/br_avg_age_abr.png)
+![Avg. marriage age and adolescent birth rate](Images/br_avg_age_abr.png)
 
   * Countries with no abortion restrictions and higher average marriage ages seem to have a lower ABR.
   * On the other hand, countries that prohibit abortion altogether can be seen having a higher ABR despite having a comparable average marriage age.
